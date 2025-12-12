@@ -1,0 +1,1601 @@
+,name,rating,cuisine,location,region,cost_per_person,discount
+0,Chin Lung Resto Bar,4.6,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+1,Chin Lung Resto Bar,4.6,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+2,"Atlantis - Brewpub, Cocktails & Kitchen",4.2,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+3,"Atlantis - Brewpub, Cocktails & Kitchen",4.2,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+4,Chin Lung Brewery - Indiranagar,4.6,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,25
+5,Chin Lung Brewery - Indiranagar,4.6,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,25
+6,Helen's Place,4.4,Multicuisine,['Marathahalli'],['East Bengaluru'],1500,25
+7,Helen's Place,4.4,Multicuisine,['Marathahalli'],['East Bengaluru'],1500,25
+8,BLR Brewing Co.,4.3,"Cocktail Menu, Finger Food",['Kanakapura Road'],['South Bengaluru'],2000,25
+9,BLR Brewing Co.,4.3,"Cocktail Menu, Finger Food",['Kanakapura Road'],['South Bengaluru'],2000,25
+10,Daddy,4.1,"Cocktail Menu, Pan Asian",['12th main'],['East Bengaluru'],2000,25
+11,Daddy,4.1,"Cocktail Menu, Pan Asian",['12th main'],['East Bengaluru'],2000,25
+12,Jollygunj,4.2,Indian,['JP Nagar'],['South Bengaluru'],1800,25
+13,Jollygunj,4.2,Indian,['JP Nagar'],['South Bengaluru'],1800,25
+14,Yuki - Pan Asian Kitchen and Bar,4.5,Pan Asian,['JP Nagar'],['South Bengaluru'],2000,25
+15,Yuki - Pan Asian Kitchen and Bar,4.5,Pan Asian,['JP Nagar'],['South Bengaluru'],2000,25
+16,46 Ounces Brewgarden,4.7,"Multicuisine, Cocktail Menu",['Electronic City'],['South Bengaluru'],2000,25
+17,46 Ounces Brewgarden,4.7,"Multicuisine, Cocktail Menu",['Electronic City'],['South Bengaluru'],2000,25
+18,The Reservoire Cocktail Bar & Kitchen,4.6,Multicuisine,['12th main'],['East Bengaluru'],2000,25
+19,The Reservoire Cocktail Bar & Kitchen,4.6,Multicuisine,['12th main'],['East Bengaluru'],2000,25
+20,Nusa - Tropical Brewvilla,4.1,Multicuisine,['Gunjur Village'],[],2000,25
+21,Nusa - Tropical Brewvilla,4.1,Multicuisine,['Gunjur Village'],[],2000,25
+22,The Founders Brewery,4.7,"Chinese, North Indian",['New BEL Road'],['North Bengaluru'],2000,25
+23,The Founders Brewery,4.7,"Chinese, North Indian",['New BEL Road'],['North Bengaluru'],2000,25
+24,Oia,4.2,Multicuisine,['Hennur'],['North Bengaluru'],2000,25
+25,Oia,4.2,Multicuisine,['Hennur'],['North Bengaluru'],2000,25
+26,Subz,4.5,Multicuisine,['Jayanagar'],['South Bengaluru'],2000,25
+27,Subz,4.5,Multicuisine,['Jayanagar'],['South Bengaluru'],2000,25
+28,Chairman's Restobar,4.6,Multicuisine,['Chikkabanavara'],['North Bengaluru'],2000,25
+29,Chairman's Restobar,4.6,Multicuisine,['Chikkabanavara'],['North Bengaluru'],2000,25
+30,Savera Lassi Shop,4.7,"Beverages, Ice Cream",['Shivajinagar'],['Central Bengaluru'],2000,10
+31,Savera Lassi Shop,4.7,"Beverages, Ice Cream",['Shivajinagar'],['Central Bengaluru'],2000,10
+32,Masha Allah Hot And Cool Point,4.0,Fast Food,['Shivajinagar'],['Central Bengaluru'],2000,10
+33,Masha Allah Hot And Cool Point,4.0,Fast Food,['Shivajinagar'],['Central Bengaluru'],2000,10
+34,Tipsy Cafe,4.0,Fast Food,['Shivajinagar'],['Central Bengaluru'],2000,10
+35,Tipsy Cafe,4.0,Fast Food,['Shivajinagar'],['Central Bengaluru'],2000,10
+36,Shahi Restaurant,3.0,Multicuisine,['Shivajinagar'],['Central Bengaluru'],2000,10
+37,Shahi Restaurant,3.0,Multicuisine,['Shivajinagar'],['Central Bengaluru'],2000,10
+38,Maggi Baba,5.0,Beverages,['Shivajinagar'],['Central Bengaluru'],2000,25
+39,Maggi Baba,5.0,Beverages,['Shivajinagar'],['Central Bengaluru'],2000,25
+40,Romeo Cafe,4.0,Multicuisine,['Shivajinagar'],['Central Bengaluru'],2000,25
+41,Romeo Cafe,4.0,Multicuisine,['Shivajinagar'],['Central Bengaluru'],2000,25
+42,Tiamo,4.4,"Italian, Mediterranean",[],[],3000,15
+43,Tiamo,4.4,"Italian, Mediterranean",[],[],3000,15
+44,Trippy Goat Cafe,4.3,"Coffee and Tea, European",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+45,Trippy Goat Cafe,4.3,"Coffee and Tea, European",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+46,Juliana's,5.0,"European, Pan Asian, Continental",['Infantry Road'],['Central Bengaluru'],1400,25
+47,Juliana's,5.0,"European, Pan Asian, Continental",['Infantry Road'],['Central Bengaluru'],1400,25
+48,ShakesBierre,4.4,"Cocktail Menu, Multicuisine",['MG Road'],['Central Bengaluru'],2000,10
+49,ShakesBierre,4.4,"Cocktail Menu, Multicuisine",['MG Road'],['Central Bengaluru'],2000,10
+50,SkyDeck By Sherlock's,4.3,Multicuisine,['MG Road'],['Central Bengaluru'],2000,15
+51,SkyDeck By Sherlock's,4.3,Multicuisine,['MG Road'],['Central Bengaluru'],2000,15
+52,Flo,3.4,"Cocktail Menu, Multicuisine",['Church Street'],['Central Bengaluru'],2000,25
+53,Flo,3.4,"Cocktail Menu, Multicuisine",['Church Street'],['Central Bengaluru'],2000,25
+54,Punjab Grill,4.2,North Indian,['Ashok Nagar'],[],2000,15
+55,Punjab Grill,4.2,North Indian,['Ashok Nagar'],[],2000,15
+56,Lumara Bar & Kitchen,4.2,Multicuisine,['Old Madras Road'],['East Bengaluru'],2500,10
+57,Lumara Bar & Kitchen,4.2,Multicuisine,['Old Madras Road'],['East Bengaluru'],2500,10
+58,Burnout Cafe,3.9,"Chinese, Multicuisine, Continental",['Infantry Road'],['Central Bengaluru'],2000,10
+59,Burnout Cafe,3.9,"Chinese, Multicuisine, Continental",['Infantry Road'],['Central Bengaluru'],2000,10
+60,Caraway Kitchen,4.4,"Indian, Asian, Continental",[],[],3000,10
+61,Caraway Kitchen,4.4,"Indian, Asian, Continental",[],[],3000,10
+62,Indian Durbar,4.4,"North Indian, Punjabi",[],[],3000,10
+63,Indian Durbar,4.4,"North Indian, Punjabi",[],[],3000,10
+64,Rolls On Wheels,4.0,"Chinese, Fast Food",['Cunningham Road'],['Central Bengaluru'],500,15
+65,Rolls On Wheels,4.0,"Chinese, Fast Food",['Cunningham Road'],['Central Bengaluru'],500,15
+66,Bazaar,4.0,Multicuisine,[],[],2500,10
+67,Bazaar,4.0,Multicuisine,[],[],2500,10
+68,By Chance,4.5,Multicuisine,['Brigade Road'],['Central Bengaluru'],1500,20
+69,By Chance,4.5,Multicuisine,['Brigade Road'],['Central Bengaluru'],1500,20
+70,Dishkeyaun,4.1,"Indian, Fusion, Asian",['Forum Rex Walk'],['Brigade Road'],2000,10
+71,Dishkeyaun,4.1,"Indian, Fusion, Asian",['Forum Rex Walk'],['Brigade Road'],2000,10
+72,Arbor Brewing Company,4.4,Multicuisine,['Brigade Road'],['Central Bengaluru'],1800,25
+73,Arbor Brewing Company,4.4,Multicuisine,['Brigade Road'],['Central Bengaluru'],1800,25
+74,Alchemy,4.5,"Indian, Fusion",['The Chancery Pavilion'],[],2500,10
+75,Alchemy,4.5,"Indian, Fusion",['The Chancery Pavilion'],[],2500,10
+76,Mikusu,4.5,"Chinese, Thai, Japanese",[],[],3000,15
+77,Mikusu,4.5,"Chinese, Thai, Japanese",[],[],3000,15
+78,Kake Di Hatti,4.4,North Indian,['Brigade Road'],['Central Bengaluru'],2000,10
+79,Kake Di Hatti,4.4,North Indian,['Brigade Road'],['Central Bengaluru'],2000,10
+80,Kai Bar and Kitchen,3.8,"Global Cuisine, Sushi",['Ashok Nagar'],[],4400,10
+81,Kai Bar and Kitchen,3.8,"Global Cuisine, Sushi",['Ashok Nagar'],[],4400,10
+82,Be Luru Craft Kitchen & Bar,3.7,"Indian, Asian",['Sankey Road'],['North Bengaluru'],2000,15
+83,Be Luru Craft Kitchen & Bar,3.7,"Indian, Asian",['Sankey Road'],['North Bengaluru'],2000,15
+84,KA 01 - Rooftop Bar & Eats,4.4,"Indian, Cocktail Menu",['Ibis Hotel'],['Richmond Road'],2000,10
+85,KA 01 - Rooftop Bar & Eats,4.4,"Indian, Cocktail Menu",['Ibis Hotel'],['Richmond Road'],2000,10
+86,Badmaash UB City,4.3,Indian,['UB City'],['Central Bengaluru'],2000,10
+87,Badmaash UB City,4.3,Indian,['UB City'],['Central Bengaluru'],2000,10
+88,Kling Brewery,4.4,Multicuisine,['Church Street'],['Central Bengaluru'],2000,10
+89,Kling Brewery,4.4,Multicuisine,['Church Street'],['Central Bengaluru'],2000,10
+90,Hatti Kaapi,5.0,Multicuisine,['Infantry Road'],['Central Bengaluru'],400,25
+91,Hatti Kaapi,5.0,Multicuisine,['Infantry Road'],['Central Bengaluru'],400,25
+92,SodaBottleOpenerWala,4.4,Parsi,['Lavelle Road'],['Central Bengaluru'],2000,10
+93,SodaBottleOpenerWala,4.4,Parsi,['Lavelle Road'],['Central Bengaluru'],2000,10
+94,Aqua,3.7,Multicuisine,['The Park'],[],2500,25
+95,Aqua,3.7,Multicuisine,['The Park'],[],2500,25
+96,Muro India,4.6,"Thai, Cantonese","['Museum Road, Ashok Nagar']",['Ashok Nagar'],5000,25
+97,Muro India,4.6,"Thai, Cantonese","['Museum Road, Ashok Nagar']",['Ashok Nagar'],5000,25
+98,Church Street Social,4.2,Multicuisine,['Church Street'],['Central Bengaluru'],2000,25
+99,Church Street Social,4.2,Multicuisine,['Church Street'],['Central Bengaluru'],2000,25
+100,The Golden Circle Brewery,4.1,Multicuisine,['Doddakannelli'],[],2000,10
+101,The Golden Circle Brewery,4.1,Multicuisine,['Doddakannelli'],[],2000,10
+102,Café Azzure,4.2,European,['MG Road'],['Central Bengaluru'],2000,15
+103,Café Azzure,4.2,European,['MG Road'],['Central Bengaluru'],2000,15
+104,Sozo Skyline Dining,4.3,"Cocktail Menu, Pan Asian",['Ashok Nagar'],[],2000,10
+105,Sozo Skyline Dining,4.3,"Cocktail Menu, Pan Asian",['Ashok Nagar'],[],2000,10
+106,Ta'aam,5.0,"Arabian, North Indian",['Cunningham Road'],['Central Bengaluru'],600,25
+107,Ta'aam,5.0,"Arabian, North Indian",['Cunningham Road'],['Central Bengaluru'],600,25
+108,Street Storyss,4.8,Multicuisine,['Brigade Road'],['Central Bengaluru'],1500,10
+109,Street Storyss,4.8,Multicuisine,['Brigade Road'],['Central Bengaluru'],1500,10
+110,Cafe G Holiday inn Bengaluru Racecourse,4.1,Multicuisine,[],[],2500,10
+111,Cafe G Holiday inn Bengaluru Racecourse,4.1,Multicuisine,[],[],2500,10
+112,Kobe Sizzlers,4.2,Sizzlers,['Indiranagar'],['East Bengaluru'],500,10
+113,Kobe Sizzlers,4.2,Sizzlers,['Indiranagar'],['East Bengaluru'],500,10
+114,Chianti,4.3,"Desserts, Italian, Pizza, Salad, Pasta",['MG Road'],['Central Bengaluru'],2000,10
+115,Chianti,4.3,"Desserts, Italian, Pizza, Salad, Pasta",['MG Road'],['Central Bengaluru'],2000,10
+116,One Atria Cafe,4.2,"Biryani, Multicuisine",[],[],2500,10
+117,One Atria Cafe,4.2,"Biryani, Multicuisine",[],[],2500,10
+118,New Kudla Family Restaurant,4.0,"North Indian, Chinese",['MG Road'],['Central Bengaluru'],2000,50
+119,New Kudla Family Restaurant,4.0,"North Indian, Chinese",['MG Road'],['Central Bengaluru'],2000,50
+120,Cafe Adams,4.0,European,['Shivajinagar'],['Central Bengaluru'],2000,25
+121,Cafe Adams,4.0,European,['Shivajinagar'],['Central Bengaluru'],2000,25
+122,Ihmiets Momos,4.0,Momos,['Old Madras Road'],['East Bengaluru'],2000,50
+123,Ihmiets Momos,4.0,Momos,['Old Madras Road'],['East Bengaluru'],2000,50
+124,Yazu Pan Asian Supper Club,4.0,"Japanese, Korean, Pan Asian",['Ashok Nagar'],[],2000,25
+125,Yazu Pan Asian Supper Club,4.0,"Japanese, Korean, Pan Asian",['Ashok Nagar'],[],2000,25
+126,Sea Rock Family Restaurant & Bar,4.8,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+127,Sea Rock Family Restaurant & Bar,4.8,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+128,Alba,4.1,Italian,"['JW Marriott, Bengaluru']",['Central Bengaluru'],3500,20
+129,Alba,4.1,Italian,"['JW Marriott, Bengaluru']",['Central Bengaluru'],3500,20
+130,Kari Theory,3.9,"Cocktail Menu, Multicuisine",[],[],2500,20
+131,Kari Theory,3.9,"Cocktail Menu, Multicuisine",[],[],2500,20
+132,Yauatcha,4.6,"Cantonese, Chinese",['1MG Road Mall'],['MG Road'],3000,25
+133,Yauatcha,4.6,"Cantonese, Chinese",['1MG Road Mall'],['MG Road'],3000,25
+134,Kenzai - Asian Kitchen And Lounge,4.4,Asian,['Brigade Road'],['Central Bengaluru'],2000,15
+135,Kenzai - Asian Kitchen And Lounge,4.4,Asian,['Brigade Road'],['Central Bengaluru'],2000,15
+136,The Market,4.5,"Multicuisine, All Day Dining",['The Ritz-Carlton'],[],4000,15
+137,The Market,4.5,"Multicuisine, All Day Dining",['The Ritz-Carlton'],[],4000,15
+138,Nothing Before Coffee,4.0,Cafe,['Richmond Town'],['Central Bengaluru'],2000,10
+139,Nothing Before Coffee,4.0,Cafe,['Richmond Town'],['Central Bengaluru'],2000,10
+140,The Biere Club,4.4,"Cocktail Menu, Multicuisine",['Lavelle Road'],['Central Bengaluru'],2000,10
+141,The Biere Club,4.4,"Cocktail Menu, Multicuisine",['Lavelle Road'],['Central Bengaluru'],2000,10
+142,T'art Cafe,4.8,Fast Food,['Brigade Road'],['Central Bengaluru'],2000,25
+143,T'art Cafe,4.8,Fast Food,['Brigade Road'],['Central Bengaluru'],2000,25
+144,SMOOR,4.5,European,['Lavelle Road'],['Central Bengaluru'],2000,10
+145,SMOOR,4.5,European,['Lavelle Road'],['Central Bengaluru'],2000,10
+146,The World Cafe,4.5,Delicatessen,[],[],2000,25
+147,The World Cafe,4.5,Delicatessen,[],[],2000,25
+148,OKO,4.5,Pan Asian,[],[],2200,15
+149,OKO,4.5,Pan Asian,[],[],2200,15
+150,Navya Samrat Restaurant,5.0,Multicuisine,['Infantry Road'],['Central Bengaluru'],2500,10
+151,Navya Samrat Restaurant,5.0,Multicuisine,['Infantry Road'],['Central Bengaluru'],2500,10
+152,Maayaa,4.4,South Indian,['The Courtyard by Sublime'],[],2000,15
+153,Maayaa,4.4,South Indian,['The Courtyard by Sublime'],[],2000,15
+154,Glass Kitchen & Bar,4.5,"Indian, Cocktail Menu",[],[],2500,10
+155,Glass Kitchen & Bar,4.5,"Indian, Cocktail Menu",[],[],2500,10
+156,Just Blr,4.4,Multicuisine,['Brigade Road'],['Central Bengaluru'],3000,25
+157,Just Blr,4.4,Multicuisine,['Brigade Road'],['Central Bengaluru'],3000,25
+158,Toca Terrace,4.2,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,25
+159,Toca Terrace,4.2,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,25
+160,CANTAN - Chinese Bar House,4.5,Chinese,['Lavelle Road'],['Central Bengaluru'],2000,25
+161,CANTAN - Chinese Bar House,4.5,Chinese,['Lavelle Road'],['Central Bengaluru'],2000,25
+162,Monsoon,3.8,Multicuisine,['The Park'],[],2000,25
+163,Monsoon,3.8,Multicuisine,['The Park'],[],2000,25
+164,Gatsby,4.4,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,20
+165,Gatsby,4.4,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,20
+166,Foo Brigade Road,4.4,"Chinese, Sushi, Asian",['Brigade Road'],['Central Bengaluru'],2500,25
+167,Foo Brigade Road,4.4,"Chinese, Sushi, Asian",['Brigade Road'],['Central Bengaluru'],2500,25
+168,Feast,4.5,Multicuisine,[],[],2500,15
+169,Feast,4.5,Multicuisine,[],[],2500,15
+170,JW Kitchen,4.4,Multicuisine,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2500,10
+171,JW Kitchen,4.4,Multicuisine,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2500,10
+172,Republic Of Noodles,4.6,Pan Asian,['Lemon Tree Premier'],[],1500,10
+173,Republic Of Noodles,4.6,Pan Asian,['Lemon Tree Premier'],[],1500,10
+174,Whispers Pub (Big Barn),4.5,Multicuisine,['Banashankari'],['South Bengaluru'],2000,20
+175,Whispers Pub (Big Barn),4.5,Multicuisine,['Banashankari'],['South Bengaluru'],2000,20
+176,Gufha Restaurant,4.7,Multicuisine,['Guttahalli'],['North Bengaluru'],2000,10
+177,Gufha Restaurant,4.7,Multicuisine,['Guttahalli'],['North Bengaluru'],2000,10
+178,Juliet,3.9,"European, Asian",['1MG Road Mall'],['MG Road'],3000,10
+179,Juliet,3.9,"European, Asian",['1MG Road Mall'],['MG Road'],3000,10
+180,i-Bar,3.8,Cocktail Menu,['The Park'],[],2000,25
+181,i-Bar,3.8,Cocktail Menu,['The Park'],[],2000,25
+182,Botany Brew & Kitchen,3.9,Multicuisine,['Ashok Nagar'],[],2000,25
+183,Botany Brew & Kitchen,3.9,Multicuisine,['Ashok Nagar'],[],2000,25
+184,Maffei Kitchen,5.0,Lebanese,['Cunningham Road'],['Central Bengaluru'],2000,10
+185,Maffei Kitchen,5.0,Lebanese,['Cunningham Road'],['Central Bengaluru'],2000,10
+186,Rice Bowl,3.7,Pan Asian,['Ulsoor'],['East Bengaluru'],2500,25
+187,Rice Bowl,3.7,Pan Asian,['Ulsoor'],['East Bengaluru'],2500,25
+188,24/7,3.9,Multicuisine,[],[],2500,15
+189,24/7,3.9,Multicuisine,[],[],2500,15
+190,Adda 1522,4.3,"European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque",['Ulsoor'],['East Bengaluru'],2000,25
+191,Adda 1522,4.3,"European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque",['Ulsoor'],['East Bengaluru'],2000,25
+192,You Mee,4.3,Pan Asian,['Orion Mall'],[],2000,10
+193,You Mee,4.3,Pan Asian,['Orion Mall'],[],2000,10
+194,Kudla,5.0,Multicuisine,['Sampangi Rama Nagar'],[],2500,15
+195,Kudla,5.0,Multicuisine,['Sampangi Rama Nagar'],[],2500,15
+196,Svarasa Indian Kitchen,4.2,Multicuisine,['Cunningham Road'],['Central Bengaluru'],1500,25
+197,Svarasa Indian Kitchen,4.2,Multicuisine,['Cunningham Road'],['Central Bengaluru'],1500,25
+198,2 Moons,3.8,"Cocktail Menu, Multicuisine",['1MG Road Mall'],['MG Road'],2500,10
+199,2 Moons,3.8,"Cocktail Menu, Multicuisine",['1MG Road Mall'],['MG Road'],2500,10
+200,Citrus Cafe,4.5,Multicuisine,['Lemon Tree Premier'],[],1500,10
+201,Citrus Cafe,4.5,Multicuisine,['Lemon Tree Premier'],[],1500,10
+202,Beijing Bites,5.0,Pan Asian,['Frazer Town'],['Central Bengaluru'],450,15
+203,Beijing Bites,5.0,Pan Asian,['Frazer Town'],['Central Bengaluru'],450,15
+204,Plan B,3.7,American,['Brigade Road'],['Central Bengaluru'],2000,15
+205,Plan B,3.7,American,['Brigade Road'],['Central Bengaluru'],2000,15
+206,The Verandah,4.3,Multicuisine,[],[],2000,15
+207,The Verandah,4.3,Multicuisine,[],[],2000,15
+208,Chutney Chang,4.2,"Indian, Chinese",['Church Street'],['Central Bengaluru'],2000,10
+209,Chutney Chang,4.2,"Indian, Chinese",['Church Street'],['Central Bengaluru'],2000,10
+210,Gold Rush Brews,4.3,Multicuisine,['Old Madras Road'],['East Bengaluru'],1600,10
+211,Gold Rush Brews,4.3,Multicuisine,['Old Madras Road'],['East Bengaluru'],1600,10
+212,Anupam's Coast II Coast,4.7,Multicuisine,['Church Street'],['Central Bengaluru'],2000,10
+213,Anupam's Coast II Coast,4.7,Multicuisine,['Church Street'],['Central Bengaluru'],2000,10
+214,Purpose Matcha + Coffee House,5.0,Coffee,['Ashok Nagar'],[],550,25
+215,Purpose Matcha + Coffee House,5.0,Coffee,['Ashok Nagar'],[],550,25
+216,Barbecue by Punjab Grill,4.0,"Beverages, Biryani, Finger Food",['Mantri Square'],[],2000,20
+217,Barbecue by Punjab Grill,4.0,"Beverages, Biryani, Finger Food",['Mantri Square'],[],2000,20
+218,Zest,4.7,Multicuisine,['Southern Star'],[],2000,15
+219,Zest,4.7,Multicuisine,['Southern Star'],[],2000,15
+220,Uru Brewpark,4.5,"Cocktail Menu, Multicuisine",['JP Nagar'],['South Bengaluru'],2000,10
+221,Uru Brewpark,4.5,"Cocktail Menu, Multicuisine",['JP Nagar'],['South Bengaluru'],2000,10
+222,Skygarden Bar & Kitchen,4.3,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2500,35
+223,Skygarden Bar & Kitchen,4.3,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2500,35
+224,The Market,4.0,Multicuisine,[],[],2200,25
+225,The Market,4.0,Multicuisine,[],[],2200,25
+226,South Parade,3.2,Multicuisine,['The Chancery Hotel'],[],2000,15
+227,South Parade,3.2,Multicuisine,['The Chancery Hotel'],[],2000,15
+228,Over Coffee “Restaurant + Wine bar”,4.1,European,['Lavelle Road'],['Central Bengaluru'],2000,25
+229,Over Coffee “Restaurant + Wine bar”,4.1,European,['Lavelle Road'],['Central Bengaluru'],2000,25
+230,The Coffee Brewery - Green Glen Layout,5.0,"Coffee and Tea, Cafe",['Bellandur'],['South Bengaluru'],2000,10
+231,The Coffee Brewery - Green Glen Layout,5.0,"Coffee and Tea, Cafe",['Bellandur'],['South Bengaluru'],2000,10
+232,Via Milano,4.4,"Mediterranean, Pizza, Bakery, Desserts, European, Finger Food, Italian",['Jayanagar'],['South Bengaluru'],2000,10
+233,Via Milano,4.4,"Mediterranean, Pizza, Bakery, Desserts, European, Finger Food, Italian",['Jayanagar'],['South Bengaluru'],2000,10
+234,Blah Bla (Indigo XP),3.8,Multicuisine,['Koramangala'],['South Bengaluru'],2000,15
+235,Blah Bla (Indigo XP),3.8,Multicuisine,['Koramangala'],['South Bengaluru'],2000,15
+236,Le Rock,4.1,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,10
+237,Le Rock,4.1,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,10
+238,Monkey Bar,3.9,Multicuisine,"['Museum Road, Ashok Nagar']",['Ashok Nagar'],2000,25
+239,Monkey Bar,3.9,Multicuisine,"['Museum Road, Ashok Nagar']",['Ashok Nagar'],2000,25
+240,Shiro,4.3,"Asian, Japanese, Pan Asian",['UB City'],['Central Bengaluru'],2500,25
+241,Shiro,4.3,"Asian, Japanese, Pan Asian",['UB City'],['Central Bengaluru'],2500,25
+242,Biergarten,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+243,Biergarten,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+244,Welcom Cafe Jacaranda,3.0,Multicuisine,['Welcomhotel By ITC Hotels'],['Richmond Road'],2500,25
+245,Welcom Cafe Jacaranda,3.0,Multicuisine,['Welcomhotel By ITC Hotels'],['Richmond Road'],2500,25
+246,Zarqash,4.0,Indian,['The Ritz-Carlton'],[],4000,25
+247,Zarqash,4.0,Indian,['The Ritz-Carlton'],[],4000,25
+248,Royal China,4.9,"Asian, Chinese",['Ashok Nagar'],[],2500,25
+249,Royal China,4.9,"Asian, Chinese",['Ashok Nagar'],[],2500,25
+250,Backer & Charlie,5.0,"Cafe, Sandwiches",['Frazer Town'],['Central Bengaluru'],800,25
+251,Backer & Charlie,5.0,"Cafe, Sandwiches",['Frazer Town'],['Central Bengaluru'],800,25
+252,The Kabab Studio,3.9,"North Indian, North West Frontier, North Eastern",['Goldfinch Hotel'],[],2000,15
+253,The Kabab Studio,3.9,"North Indian, North West Frontier, North Eastern",['Goldfinch Hotel'],[],2000,15
+254,The Lobby Brew,3.8,Multicuisine,[],[],2500,25
+255,The Lobby Brew,3.8,Multicuisine,[],[],2500,25
+256,Restaurant Chef Pillai,4.1,South Indian,['Brigade Road'],['Central Bengaluru'],2500,10
+257,Restaurant Chef Pillai,4.1,South Indian,['Brigade Road'],['Central Bengaluru'],2500,10
+258,Mainland China,4.4,Chinese,['Church Street'],['Central Bengaluru'],1600,10
+259,Mainland China,4.4,Chinese,['Church Street'],['Central Bengaluru'],1600,10
+260,Fasta Pizza,4.3,Pizza,['HSR'],['South Bengaluru'],400,30
+261,Fasta Pizza,4.3,Pizza,['HSR'],['South Bengaluru'],400,30
+262,Hoy Punjab,4.7,Indian,['Orion Avenue'],[],2500,15
+263,Hoy Punjab,4.7,Indian,['Orion Avenue'],[],2500,15
+264,Da-Fu Authentic Flavors of China,2.5,Chinese,['Residency Road'],['Central Bengaluru'],2000,25
+265,Da-Fu Authentic Flavors of China,2.5,Chinese,['Residency Road'],['Central Bengaluru'],2000,25
+266,Spice It,3.5,Multicuisine,['Ibis Hotel'],['Richmond Road'],2000,10
+267,Spice It,3.5,Multicuisine,['Ibis Hotel'],['Richmond Road'],2000,10
+268,Cafe Lazy Lad,4.0,Cafe,['Cooke Town'],['North Bengaluru'],2000,10
+269,Cafe Lazy Lad,4.0,Cafe,['Cooke Town'],['North Bengaluru'],2000,10
+270,The Soda Factory - Brew & Kitchen,4.3,"Multicuisine, Biryani",['Nagarbhavi'],['West Bengaluru'],2000,25
+271,The Soda Factory - Brew & Kitchen,4.3,"Multicuisine, Biryani",['Nagarbhavi'],['West Bengaluru'],2000,25
+272,Asia Alive - Global Dining,4.0,Pan Asian,['DoubleTree Suites By Hilton'],[],2500,25
+273,Asia Alive - Global Dining,4.0,Pan Asian,['DoubleTree Suites By Hilton'],[],2500,25
+274,Mirage,4.2,"Cocktail Menu, Multicuisine",['Church Street'],['Central Bengaluru'],2800,15
+275,Mirage,4.2,"Cocktail Menu, Multicuisine",['Church Street'],['Central Bengaluru'],2800,15
+276,The Rice Bowl,4.3,"Chinese, Asian",['Southern Star'],[],1500,10
+277,The Rice Bowl,4.3,"Chinese, Asian",['Southern Star'],[],1500,10
+278,Kava,3.8,Indian,[],[],2500,30
+279,Kava,3.8,Indian,[],[],2500,30
+280,"Salt - Pan Indian Restaurant, Bar & Grill",4.3,"Indian, Cocktail Menu",['UB City'],['Central Bengaluru'],2000,25
+281,"Salt - Pan Indian Restaurant, Bar & Grill",4.3,"Indian, Cocktail Menu",['UB City'],['Central Bengaluru'],2000,25
+282,Spice Terrace,4.5,North Indian,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2800,10
+283,Spice Terrace,4.5,North Indian,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2800,10
+284,Pinxx,4.2,Multicuisine,['Royal Orchid Central'],[],2400,10
+285,Pinxx,4.2,Multicuisine,['Royal Orchid Central'],[],2400,10
+286,Queens Restaurant,5.0,North Indian,['Church Street'],['Central Bengaluru'],2000,10
+287,Queens Restaurant,5.0,North Indian,['Church Street'],['Central Bengaluru'],2000,10
+288,Al Obediah Restaurant,4.0,Multicuisine,['Frazer Town'],['Central Bengaluru'],700,10
+289,Al Obediah Restaurant,4.0,Multicuisine,['Frazer Town'],['Central Bengaluru'],700,10
+290,Shooketts,4.0,"European, French",['Ulsoor'],['East Bengaluru'],2000,10
+291,Shooketts,4.0,"European, French",['Ulsoor'],['East Bengaluru'],2000,10
+292,Sana-Di-Ge,4.4,"Biryani, Seafood, Regional Indian",['Goldfinch Hotel'],[],2000,10
+293,Sana-Di-Ge,4.4,"Biryani, Seafood, Regional Indian",['Goldfinch Hotel'],[],2000,10
+294,Club Destini - Destini Bar & Kitchen,4.8,Multicuisine,['Electronic City'],['South Bengaluru'],2000,10
+295,Club Destini - Destini Bar & Kitchen,4.8,Multicuisine,['Electronic City'],['South Bengaluru'],2000,10
+296,The Yard,4.3,Multicuisine,['Doddanekkundi'],[],2000,15
+297,The Yard,4.3,Multicuisine,['Doddanekkundi'],[],2000,15
+298,Skyro,4.4,Multicuisine,['Nagarbhavi'],['West Bengaluru'],1200,10
+299,Skyro,4.4,Multicuisine,['Nagarbhavi'],['West Bengaluru'],1200,10
+300,Vesparo-Pulse,4.5,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,25
+301,Vesparo-Pulse,4.5,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,25
+302,Karma & Kurry,4.4,Multicuisine,['Garuda Mall'],['Magrath Road'],2000,25
+303,Karma & Kurry,4.4,Multicuisine,['Garuda Mall'],['Magrath Road'],2000,25
+304,Madras Kitchen,4.5,South Indian,[],[],2800,25
+305,Madras Kitchen,4.5,South Indian,[],[],2800,25
+306,Oasis Brewery,4.5,Multicuisine,['Whitefield'],['East Bengaluru'],1500,25
+307,Oasis Brewery,4.5,Multicuisine,['Whitefield'],['East Bengaluru'],1500,25
+308,Barbeque Nation,4.6,Multicuisine,['Garuda Mall'],['Ashok Nagar'],2000,25
+309,Barbeque Nation,4.6,Multicuisine,['Garuda Mall'],['Ashok Nagar'],2000,25
+310,Aromas of Asia,1.0,Multicuisine,['Hotel 37th Crescent'],[],2000,10
+311,Aromas of Asia,1.0,Multicuisine,['Hotel 37th Crescent'],[],2000,10
+312,Oh! Calcutta,4.4,Bengali,['Church Street'],['Central Bengaluru'],2000,25
+313,Oh! Calcutta,4.4,Bengali,['Church Street'],['Central Bengaluru'],2000,25
+314,Roastea - Curated Coffee And Tea Artisans,4.9,Cafe,['Kalyan Nagar'],['North Bengaluru'],2000,25
+315,Roastea - Curated Coffee And Tea Artisans,4.9,Cafe,['Kalyan Nagar'],['North Bengaluru'],2000,25
+316,IKOI Tokyo,4.2,"Japanese, Bakery",['JP Nagar'],['South Bengaluru'],1200,10
+317,IKOI Tokyo,4.2,"Japanese, Bakery",['JP Nagar'],['South Bengaluru'],1200,10
+318,Sanchez & Sriracha,4.2,Mexican,['UB City'],['Central Bengaluru'],2000,10
+319,Sanchez & Sriracha,4.2,Mexican,['UB City'],['Central Bengaluru'],2000,10
+320,The Royal Afghan,4.8,North West Frontier,['ITC Windsor'],[],5500,25
+321,The Royal Afghan,4.8,North West Frontier,['ITC Windsor'],[],5500,25
+322,Hype,4.1,Cocktail Menu,[],[],2500,25
+323,Hype,4.1,Cocktail Menu,[],[],2500,25
+324,Mannheim Craft Brewery,4.5,Multicuisine,['Whitefield'],['East Bengaluru'],2500,10
+325,Mannheim Craft Brewery,4.5,Multicuisine,['Whitefield'],['East Bengaluru'],2500,10
+326,Kalinga Bar,4.5,Multicuisine,['Gandhi Nagar'],['Central Bengaluru'],2000,10
+327,Kalinga Bar,4.5,Multicuisine,['Gandhi Nagar'],['Central Bengaluru'],2000,10
+328,Caprese,4.7,Italian,[],[],2500,25
+329,Caprese,4.7,Italian,[],[],2500,25
+330,Fia’s Lounge,4.4,"European, Parsi",['Richmond Road'],['Central Bengaluru'],1500,25
+331,Fia’s Lounge,4.4,"European, Parsi",['Richmond Road'],['Central Bengaluru'],1500,25
+332,NChef,5.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,25
+333,NChef,5.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,25
+334,Biryani Blues,4.0,Biryani,['Church Street'],['Central Bengaluru'],700,25
+335,Biryani Blues,4.0,Biryani,['Church Street'],['Central Bengaluru'],700,25
+336,Loco Lane,4.0,Multicuisine,['Ashok Nagar'],[],600,25
+337,Loco Lane,4.0,Multicuisine,['Ashok Nagar'],[],600,25
+338,The Foodstories Garden Cafe,4.0,Global Cuisine,['Ashok Nagar'],[],1500,25
+339,The Foodstories Garden Cafe,4.0,Global Cuisine,['Ashok Nagar'],[],1500,25
+340,Suka Brew & Kitchen,3.4,Multicuisine,['Nagarbhavi'],['West Bengaluru'],1200,25
+341,Suka Brew & Kitchen,3.4,Multicuisine,['Nagarbhavi'],['West Bengaluru'],1200,25
+342,Secret Story,4.1,Multicuisine,['12th main'],['East Bengaluru'],2000,10
+343,Secret Story,4.1,Multicuisine,['12th main'],['East Bengaluru'],2000,10
+344,Salvadores,4.5,"Cocktail Menu, Continental",['MG Road'],['Central Bengaluru'],2500,10
+345,Salvadores,4.5,"Cocktail Menu, Continental",['MG Road'],['Central Bengaluru'],2500,10
+346,Eight,4.7,Pan Asian,"['Phoenix Mall Of Asia, Yelahanka']",[],2500,20
+347,Eight,4.7,Pan Asian,"['Phoenix Mall Of Asia, Yelahanka']",[],2500,20
+348,CHA,4.4,Pan Asian,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+349,CHA,4.4,Pan Asian,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+350,Dindigul Thalappakatti,5.0,Multicuisine,['MG Road'],['Central Bengaluru'],950,25
+351,Dindigul Thalappakatti,5.0,Multicuisine,['MG Road'],['Central Bengaluru'],950,25
+352,Zodiac,4.2,Multicuisine,['Fortune Select JP Cosmos'],[],2000,15
+353,Zodiac,4.2,Multicuisine,['Fortune Select JP Cosmos'],[],2000,15
+354,Bengaluru Circle,1.0,Multicuisine,['Doddanekkundi'],[],1000,10
+355,Bengaluru Circle,1.0,Multicuisine,['Doddanekkundi'],[],1000,10
+356,The California Coffee,4.0,American,['Ashok Nagar'],[],2000,20
+357,The California Coffee,4.0,American,['Ashok Nagar'],[],2000,20
+358,Coco's Bar & Kitchen,4.3,Multicuisine,['Church Street'],['Central Bengaluru'],1200,25
+359,Coco's Bar & Kitchen,4.3,Multicuisine,['Church Street'],['Central Bengaluru'],1200,25
+360,Wasabi,1.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,20
+361,Wasabi,1.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,20
+362,AnTeRa Kitchen & Bar,4.4,"Indian, Biryani",['Marathahalli'],['East Bengaluru'],2000,10
+363,AnTeRa Kitchen & Bar,4.4,"Indian, Biryani",['Marathahalli'],['East Bengaluru'],2000,10
+364,Green Theory,4.3,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+365,Green Theory,4.3,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+366,Zodiac - The Fortune Palace,4.0,Multicuisine,['Fortune Select JP Cosmos'],[],1800,15
+367,Zodiac - The Fortune Palace,4.0,Multicuisine,['Fortune Select JP Cosmos'],[],1800,15
+368,DYN,3.8,Multicuisine,[],[],3000,10
+369,DYN,3.8,Multicuisine,[],[],3000,10
+370,Hatti Kaapi - Signature,5.0,Multicuisine,['Lavelle Road'],['Central Bengaluru'],600,10
+371,Hatti Kaapi - Signature,5.0,Multicuisine,['Lavelle Road'],['Central Bengaluru'],600,10
+372,B Cafe,4.6,Multicuisine,[],[],2500,25
+373,B Cafe,4.6,Multicuisine,[],[],2500,25
+374,Cosmo,4.0,Multicuisine,[],[],2000,15
+375,Cosmo,4.0,Multicuisine,[],[],2000,15
+376,The Coffee Shop,4.0,Indian,['The Cunningham Hotel'],['Vasanth Nagar'],1000,10
+377,The Coffee Shop,4.0,Indian,['The Cunningham Hotel'],['Vasanth Nagar'],1000,10
+378,Big Barrel Microbrewery,4.2,Finger Food,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+379,Big Barrel Microbrewery,4.2,Finger Food,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+380,Raj Pavilion,4.4,"Multicuisine, Indian",['ITC Windsor'],[],2500,25
+381,Raj Pavilion,4.4,"Multicuisine, Indian",['ITC Windsor'],[],2500,25
+382,Flechazo Gold Buffet Restaurant,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+383,Flechazo Gold Buffet Restaurant,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+384,La Casa Brewery + Kitchen,4.2,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,15
+385,La Casa Brewery + Kitchen,4.2,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,15
+386,Lemaire Patisserie & Coffee Brew,4.8,"Pizza, Coffee",['Basavanagudi'],['South Bengaluru'],1000,10
+387,Lemaire Patisserie & Coffee Brew,4.8,"Pizza, Coffee",['Basavanagudi'],['South Bengaluru'],1000,10
+388,The Big Baadshaah,3.8,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,25
+389,The Big Baadshaah,3.8,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,25
+390,RCB Bar & Cafe,4.2,"Cocktail Menu, Multicuisine",['Ashok Nagar'],[],3000,25
+391,RCB Bar & Cafe,4.2,"Cocktail Menu, Multicuisine",['Ashok Nagar'],[],3000,25
+392,Amicii,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],4000,25
+393,Amicii,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],4000,25
+394,Persian Pastries,5.0,Desserts,['Brigade Road'],['Central Bengaluru'],2000,20
+395,Persian Pastries,5.0,Desserts,['Brigade Road'],['Central Bengaluru'],2000,20
+396,Cubbon Pavilion,4.4,"All Day Dining, Multicuisine",['ITC Gardenia'],[],2500,25
+397,Cubbon Pavilion,4.4,"All Day Dining, Multicuisine",['ITC Gardenia'],[],2500,25
+398,Tonique Restro Bar,5.0,"Cocktail Menu, Multicuisine",['Battrahalli'],[],2000,15
+399,Tonique Restro Bar,5.0,"Cocktail Menu, Multicuisine",['Battrahalli'],[],2000,15
+400,Baluchi,3.0,Indian,[],[],4000,15
+401,Baluchi,3.0,Indian,[],[],4000,15
+402,Sutra,3.0,Finger Food,[],[],2500,15
+403,Sutra,3.0,Finger Food,[],[],2500,15
+404,Lohri,2.3,North Indian,['Trinity Hotel'],[],1800,25
+405,Lohri,2.3,North Indian,['Trinity Hotel'],[],1800,25
+406,Fuel Bar,4.4,"Finger Food, Cocktail Menu",['The Pride Hotel'],[],2000,15
+407,Fuel Bar,4.4,"Finger Food, Cocktail Menu",['The Pride Hotel'],[],2000,15
+408,Bengaluru Baking Company,5.0,Multicuisine,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2000,15
+409,Bengaluru Baking Company,5.0,Multicuisine,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2000,15
+410,Hoppipola,3.9,Cocktail Menu,['Church Street'],['Central Bengaluru'],2000,15
+411,Hoppipola,3.9,Cocktail Menu,['Church Street'],['Central Bengaluru'],2000,15
+412,Anjappar Chettinad Restaurant,3.7,Indian,['Ashok Nagar'],[],2000,10
+413,Anjappar Chettinad Restaurant,3.7,Indian,['Ashok Nagar'],[],2000,10
+414,Cajsa,5.0,"Western, European",['ITC Gardenia'],[],3500,25
+415,Cajsa,5.0,"Western, European",['ITC Gardenia'],[],3500,25
+416,Dhaba - Estd 1986 Delhi,4.2,North Indian,['12th main'],['East Bengaluru'],2000,10
+417,Dhaba - Estd 1986 Delhi,4.2,North Indian,['12th main'],['East Bengaluru'],2000,10
+418,The Veg & Veg,4.9,South Indian,['Indiranagar'],['East Bengaluru'],2000,10
+419,The Veg & Veg,4.9,South Indian,['Indiranagar'],['East Bengaluru'],2000,10
+420,UNO Izakaya,1.0,Japanese,"['JW Marriott, Bengaluru']",['Central Bengaluru'],4000,20
+421,UNO Izakaya,1.0,Japanese,"['JW Marriott, Bengaluru']",['Central Bengaluru'],4000,20
+422,Stories Bar & Kitchen,4.0,Multicuisine,['Nagarbhavi'],['West Bengaluru'],2000,15
+423,Stories Bar & Kitchen,4.0,Multicuisine,['Nagarbhavi'],['West Bengaluru'],2000,15
+424,Arambham - Flavours of South,4.0,Multicuisine,['Indiranagar'],['East Bengaluru'],350,10
+425,Arambham - Flavours of South,4.0,Multicuisine,['Indiranagar'],['East Bengaluru'],350,10
+426,The Lobby Lounge,4.0,Coffee and Tea,['The Ritz-Carlton'],[],2600,15
+427,The Lobby Lounge,4.0,Coffee and Tea,['The Ritz-Carlton'],[],2600,15
+428,Puran Da Dhaba,3.9,Indian,['The Pride Hotel'],[],2000,15
+429,Puran Da Dhaba,3.9,Indian,['The Pride Hotel'],[],2000,15
+430,The Gourmet Kitchen & Bar,4.0,Pan Asian,['Hotel Ramanashree'],[],2000,15
+431,The Gourmet Kitchen & Bar,4.0,Pan Asian,['Hotel Ramanashree'],[],2000,15
+432,Mahjong Room,4.5,Chinese,['Welcomhotel By ITC Hotels'],['Richmond Road'],2000,25
+433,Mahjong Room,4.5,Chinese,['Welcomhotel By ITC Hotels'],['Richmond Road'],2000,25
+434,The Reservoire,4.3,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+435,The Reservoire,4.3,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+436,Levista Gourmet Studio,5.0,American,['Church Street'],['Central Bengaluru'],2000,10
+437,Levista Gourmet Studio,5.0,American,['Church Street'],['Central Bengaluru'],2000,10
+438,Big Pitcher - CLUB KAHUNA,4.4,Multicuisine,['Old Airport Road'],['East Bengaluru'],2000,25
+439,Big Pitcher - CLUB KAHUNA,4.4,Multicuisine,['Old Airport Road'],['East Bengaluru'],2000,25
+440,Gladia Brewery & Kitchen,4.5,Multicuisine,['Kaikondrahalli'],[],2500,25
+441,Gladia Brewery & Kitchen,4.5,Multicuisine,['Kaikondrahalli'],[],2500,25
+442,Lotus Pavilion,5.0,Multicuisine,['ITC Gardenia'],[],3500,25
+443,Lotus Pavilion,5.0,Multicuisine,['ITC Gardenia'],[],3500,25
+444,Tottos Pizza,3.3,Multicuisine,"['5th Avenue, Brigade Road']","['Brigade Road', 'Central Bengaluru']",2000,15
+445,Tottos Pizza,3.3,Multicuisine,"['5th Avenue, Brigade Road']","['Brigade Road', 'Central Bengaluru']",2000,15
+446,Bologna Italian Restaurant,4.5,Italian,['100 Feet Road'],['East Bengaluru'],2000,10
+447,Bologna Italian Restaurant,4.5,Italian,['100 Feet Road'],['East Bengaluru'],2000,10
+448,ASF - Ancient Stone Flames BBQ & Grill,4.8,North Indian,['Kalyan Nagar'],['North Bengaluru'],2000,25
+449,ASF - Ancient Stone Flames BBQ & Grill,4.8,North Indian,['Kalyan Nagar'],['North Bengaluru'],2000,25
+450,RestoBar Therapy,2.8,Multicuisine,['Hotel Canton Bar & Kitchen'],[],2000,10
+451,RestoBar Therapy,2.8,Multicuisine,['Hotel Canton Bar & Kitchen'],[],2000,10
+452,Drink N Dine,4.3,Multicuisine,['Chandra Layout'],['West Bengaluru'],2000,15
+453,Drink N Dine,4.3,Multicuisine,['Chandra Layout'],['West Bengaluru'],2000,15
+454,The Bier Library,4.6,"Cocktail Menu, Multicuisine",['Sarjapur Road'],['South Bengaluru'],2000,10
+455,The Bier Library,4.6,"Cocktail Menu, Multicuisine",['Sarjapur Road'],['South Bengaluru'],2000,10
+456,Matkka - Indian Cuisine & Cocktail Bar,4.0,Malwani,['Banashankari'],['South Bengaluru'],2000,10
+457,Matkka - Indian Cuisine & Cocktail Bar,4.0,Malwani,['Banashankari'],['South Bengaluru'],2000,10
+458,Thelagram,4.1,Indian,['JP Nagar'],['South Bengaluru'],2000,15
+459,Thelagram,4.1,Indian,['JP Nagar'],['South Bengaluru'],2000,15
+460,Tawa Tandoor,4.5,"Multicuisine, Biryani",['New BEL Road'],['North Bengaluru'],2000,25
+461,Tawa Tandoor,4.5,"Multicuisine, Biryani",['New BEL Road'],['North Bengaluru'],2000,25
+462,Slounge,4.0,Finger Food,['Lemon Tree Premier'],[],1000,10
+463,Slounge,4.0,Finger Food,['Lemon Tree Premier'],[],1000,10
+464,Kongsi Tea Bar,4.0,"Desserts, Bubble Tea",['St. Marks Road'],['Central Bengaluru'],2000,10
+465,Kongsi Tea Bar,4.0,"Desserts, Bubble Tea",['St. Marks Road'],['Central Bengaluru'],2000,10
+466,OnTime Hotel,4.0,Multicuisine,['Residency Road'],['Central Bengaluru'],800,10
+467,OnTime Hotel,4.0,Multicuisine,['Residency Road'],['Central Bengaluru'],800,10
+468,Slay Coffee Bar,5.0,Coffee,"['RMZ Millenia, Halasuru']",[],2000,10
+469,Slay Coffee Bar,5.0,Coffee,"['RMZ Millenia, Halasuru']",[],2000,10
+470,Auntie Fung's,4.2,Pan Asian,['New BEL Road'],['North Bengaluru'],2000,10
+471,Auntie Fung's,4.2,Pan Asian,['New BEL Road'],['North Bengaluru'],2000,10
+472,Platform 65,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,10
+473,Platform 65,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,10
+474,To Be Continued Sky Lounge TBC,4.2,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+475,To Be Continued Sky Lounge TBC,4.2,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+476,Yàn Yǎn,4.0,Chinese,['The Ritz-Carlton'],[],6000,25
+477,Yàn Yǎn,4.0,Chinese,['The Ritz-Carlton'],[],6000,25
+478,"Shokudo, Japanese and Pan Asian Restaurant",4.5,"Asian, Japanese, Korean, Pan Asian",['Jayanagar'],['South Bengaluru'],2000,25
+479,"Shokudo, Japanese and Pan Asian Restaurant",4.5,"Asian, Japanese, Korean, Pan Asian",['Jayanagar'],['South Bengaluru'],2000,25
+480,Limelight,4.2,Multicuisine,['Royal Orchid Hotel'],[],2500,15
+481,Limelight,4.2,Multicuisine,['Royal Orchid Hotel'],[],2500,15
+482,Brix and Barrells,5.0,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+483,Brix and Barrells,5.0,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+484,The Green Plate Society,4.6,"Italian, Mexican, Multicuisine, Asian",['Jayanagar'],['South Bengaluru'],2500,10
+485,The Green Plate Society,4.6,"Italian, Mexican, Multicuisine, Asian",['Jayanagar'],['South Bengaluru'],2500,10
+486,Bier Loft Brewing Co.,4.6,Multicuisine,['Electronic City Phase 1'],['South Bengaluru'],1500,10
+487,Bier Loft Brewing Co.,4.6,Multicuisine,['Electronic City Phase 1'],['South Bengaluru'],1500,10
+488,Zaffran - North West Frontier Restaurant & Bar by TBC,3.4,North West Frontier,['Marathahalli'],['East Bengaluru'],2500,25
+489,Zaffran - North West Frontier Restaurant & Bar by TBC,3.4,North West Frontier,['Marathahalli'],['East Bengaluru'],2500,25
+490,Ivory by the lake,4.3,"Continental, Pan Asian",['Rajarajeshwari Nagar'],['South Bengaluru'],2000,15
+491,Ivory by the lake,4.3,"Continental, Pan Asian",['Rajarajeshwari Nagar'],['South Bengaluru'],2000,15
+492,The Lounge Cafe,4.0,"Iranian, Finger Food",[],[],2000,10
+493,The Lounge Cafe,4.0,"Iranian, Finger Food",[],[],2000,10
+494,Ceylon Curry House,5.0,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+495,Ceylon Curry House,5.0,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,25
+496,Blanc The Coffee Place,5.0,European,['Gandhi Nagar'],['Central Bengaluru'],1000,25
+497,Blanc The Coffee Place,5.0,European,['Gandhi Nagar'],['Central Bengaluru'],1000,25
+498,Nando's,4.3,African,['Forum Rex Walk'],['Brigade Road'],2000,25
+499,Nando's,4.3,African,['Forum Rex Walk'],['Brigade Road'],2000,25
+500,Mavericks Farmer’s coffee,5.0,"European, Cafe",['Cunningham Road'],['Central Bengaluru'],800,25
+501,Mavericks Farmer’s coffee,5.0,"European, Cafe",['Cunningham Road'],['Central Bengaluru'],800,25
+502,Piro,5.0,Multicuisine,['HSR'],['South Bengaluru'],1000,15
+503,Piro,5.0,Multicuisine,['HSR'],['South Bengaluru'],1000,15
+504,Backstreet Brewery,4.4,"Multicuisine, Cocktail Menu",['Sarjapur Road'],['South Bengaluru'],2000,15
+505,Backstreet Brewery,4.4,"Multicuisine, Cocktail Menu",['Sarjapur Road'],['South Bengaluru'],2000,15
+506,The Fixx,4.0,"Cocktail Menu, Multicuisine",['Koramangala'],['South Bengaluru'],2000,25
+507,The Fixx,4.0,"Cocktail Menu, Multicuisine",['Koramangala'],['South Bengaluru'],2000,25
+508,Plente,5.0,Multicuisine,['Indiranagar'],['East Bengaluru'],800,25
+509,Plente,5.0,Multicuisine,['Indiranagar'],['East Bengaluru'],800,25
+510,Gawky Goose,4.4,"Multicuisine, Burgers",['Murgesh Pallya'],['West Bengaluru'],2500,15
+511,Gawky Goose,4.4,"Multicuisine, Burgers",['Murgesh Pallya'],['West Bengaluru'],2500,15
+512,Magique,3.6,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+513,Magique,3.6,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+514,46 Ounces,5.0,"Multicuisine, Indian, Italian, Japanese, Pan Asian, Continental",['Old Madras Road'],['East Bengaluru'],1200,15
+515,46 Ounces,5.0,"Multicuisine, Indian, Italian, Japanese, Pan Asian, Continental",['Old Madras Road'],['East Bengaluru'],1200,15
+516,KoMaama Korean Restaurant,4.0,Korean,['Brigade Road'],['Central Bengaluru'],2000,25
+517,KoMaama Korean Restaurant,4.0,Korean,['Brigade Road'],['Central Bengaluru'],2000,25
+518,High Brew,4.5,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,15
+519,High Brew,4.5,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,15
+520,Jook Taproom,4.4,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+521,Jook Taproom,4.4,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+522,Saarangi Fine Dining,4.7,Multicuisine,['The Royal Comfort'],[],800,25
+523,Saarangi Fine Dining,4.7,Multicuisine,['The Royal Comfort'],[],800,25
+524,The Shack - Restopub,4.2,"Fast Food, Cocktail Menu",[],[],2000,15
+525,The Shack - Restopub,4.2,"Fast Food, Cocktail Menu",[],[],2000,15
+526,Eywa Cafe,4.8,Continental,['Banashankari'],['South Bengaluru'],2000,25
+527,Eywa Cafe,4.8,Continental,['Banashankari'],['South Bengaluru'],2000,25
+528,Wow! China,4.0,Chinese,['Church Street'],['Central Bengaluru'],2000,15
+529,Wow! China,4.0,Chinese,['Church Street'],['Central Bengaluru'],2000,15
+530,Wow! Momo,4.0,Momos,['Church Street'],['Central Bengaluru'],2000,15
+531,Wow! Momo,4.0,Momos,['Church Street'],['Central Bengaluru'],2000,15
+532,Cha HongKong Eating House,4.0,"Chinese, Japanese, Asian",['St. Marks Road'],['Central Bengaluru'],1400,10
+533,Cha HongKong Eating House,4.0,"Chinese, Japanese, Asian",['St. Marks Road'],['Central Bengaluru'],1400,10
+534,The Bangalore Cafe,4.4,Multicuisine,['Shanti Nagar'],['Central Bengaluru'],1600,10
+535,The Bangalore Cafe,4.4,Multicuisine,['Shanti Nagar'],['Central Bengaluru'],1600,10
+536,The Burrow,5.0,"Italian, North Indian",['Hotel 37th Crescent'],[],2000,10
+537,The Burrow,5.0,"Italian, North Indian",['Hotel 37th Crescent'],[],2000,10
+538,Saanjh,5.0,Multicuisine,['HSR'],['South Bengaluru'],800,25
+539,Saanjh,5.0,Multicuisine,['HSR'],['South Bengaluru'],800,25
+540,Float,4.3,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],1200,10
+541,Float,4.3,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],1200,10
+542,Funkys Cafe,4.0,Fast Food,['Brigade Road'],['Central Bengaluru'],2000,10
+543,Funkys Cafe,4.0,Fast Food,['Brigade Road'],['Central Bengaluru'],2000,10
+544,Season Restaurant,4.0,Multicuisine,['Richmond Town'],['Central Bengaluru'],2000,25
+545,Season Restaurant,4.0,Multicuisine,['Richmond Town'],['Central Bengaluru'],2000,25
+546,Chambal,5.0,Indian,['Church Street'],['Central Bengaluru'],2000,10
+547,Chambal,5.0,Indian,['Church Street'],['Central Bengaluru'],2000,10
+548,The Whitefield Arms Pub & MicroBrewery,4.4,"European, Barbeque",['The Waverly Hotels & Residences'],[],2000,15
+549,The Whitefield Arms Pub & MicroBrewery,4.4,"European, Barbeque",['The Waverly Hotels & Residences'],[],2000,15
+550,Runway 27 Taproom & Kitchen,4.2,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,10
+551,Runway 27 Taproom & Kitchen,4.2,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,10
+552,Tea and Wine Lounge,4.5,"Finger Food, Desserts",[],[],1500,10
+553,Tea and Wine Lounge,4.5,"Finger Food, Desserts",[],[],1500,10
+554,La Utsav by Grand Mercure,4.3,Multicuisine,[],[],2000,15
+555,La Utsav by Grand Mercure,4.3,Multicuisine,[],[],2000,15
+556,Café du L'Amour (Cafe of Love),5.0,Multicuisine,['Koramangala 4th Block'],['South Bengaluru'],600,10
+557,Café du L'Amour (Cafe of Love),5.0,Multicuisine,['Koramangala 4th Block'],['South Bengaluru'],600,10
+558,Boozy Dozzy Bar & Kitchen,3.8,Multicuisine,['BTM'],['South Bengaluru'],2000,20
+559,Boozy Dozzy Bar & Kitchen,3.8,Multicuisine,['BTM'],['South Bengaluru'],2000,20
+560,Plaka,4.2,Multicuisine,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,10
+561,Plaka,4.2,Multicuisine,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,10
+562,Pavilion Restaurant,3.8,Multicuisine,['Comfort INN Insys'],[],2000,15
+563,Pavilion Restaurant,3.8,Multicuisine,['Comfort INN Insys'],[],2000,15
+564,Tyd Kitchen + Bar,4.3,Multicuisine,['Hennur'],['North Bengaluru'],2000,20
+565,Tyd Kitchen + Bar,4.3,Multicuisine,['Hennur'],['North Bengaluru'],2000,20
+566,Basaveshwar Khanavali,4.6,South Indian,['Residency Road'],['Central Bengaluru'],2000,25
+567,Basaveshwar Khanavali,4.6,South Indian,['Residency Road'],['Central Bengaluru'],2000,25
+568,Kazan Japanese Ramen,4.9,Japanese,['Church Street'],['Central Bengaluru'],2000,25
+569,Kazan Japanese Ramen,4.9,Japanese,['Church Street'],['Central Bengaluru'],2000,25
+570,Misu,3.5,Pan Asian,['Palace Road'],['Central Bengaluru'],2500,25
+571,Misu,3.5,Pan Asian,['Palace Road'],['Central Bengaluru'],2500,25
+572,Cafe 72,4.5,"European, Asian",['Basavanagudi'],['South Bengaluru'],500,10
+573,Cafe 72,4.5,"European, Asian",['Basavanagudi'],['South Bengaluru'],500,10
+574,Oney By Hammered,4.0,"Asian, Continental",['Cunningham Road'],['Central Bengaluru'],2000,10
+575,Oney By Hammered,4.0,"Asian, Continental",['Cunningham Road'],['Central Bengaluru'],2000,10
+576,Paradise Biryani - A Legend since 1953,3.0,Biryani,['Kasavanahalli'],[],2000,10
+577,Paradise Biryani - A Legend since 1953,3.0,Biryani,['Kasavanahalli'],[],2000,10
+578,11grams Coffee Roasters,4.0,Cafe,['Church Street'],['Central Bengaluru'],2000,10
+579,11grams Coffee Roasters,4.0,Cafe,['Church Street'],['Central Bengaluru'],2000,10
+580,Bootstrapped Cafe,4.0,"European, North Indian",['Ashok Nagar'],[],2000,10
+581,Bootstrapped Cafe,4.0,"European, North Indian",['Ashok Nagar'],[],2000,10
+582,The Wine Terrace,4.0,"American, European",['Ulsoor'],['East Bengaluru'],2000,10
+583,The Wine Terrace,4.0,"American, European",['Ulsoor'],['East Bengaluru'],2000,10
+584,Apna Dhaba,4.0,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,10
+585,Apna Dhaba,4.0,Multicuisine,['Residency Road'],['Central Bengaluru'],2000,10
+586,Geometry Brewery & Kitchen,4.0,Finger Food,['Rajajinagar'],['West Bengaluru'],2000,10
+587,Geometry Brewery & Kitchen,4.0,Finger Food,['Rajajinagar'],['West Bengaluru'],2000,10
+588,Monarch Cafe,4.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,10
+589,Monarch Cafe,4.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],1200,10
+590,Coconut Grove,4.7,Multicuisine,['Church Street'],['Central Bengaluru'],1200,25
+591,Coconut Grove,4.7,Multicuisine,['Church Street'],['Central Bengaluru'],1200,25
+592,Shanmukha Restaurant,4.4,"Andhra, Chinese, Indian",['Jayanagar'],['South Bengaluru'],1000,15
+593,Shanmukha Restaurant,4.4,"Andhra, Chinese, Indian",['Jayanagar'],['South Bengaluru'],1000,15
+594,Chowman,4.4,"Chinese, Thai",['Kalyan Nagar'],['North Bengaluru'],2000,25
+595,Chowman,4.4,"Chinese, Thai",['Kalyan Nagar'],['North Bengaluru'],2000,25
+596,Dobaraa Gastro Pub,4.3,Multicuisine,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+597,Dobaraa Gastro Pub,4.3,Multicuisine,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+598,Szechuan Dragon,5.0,Chinese,['Basavanagudi'],['South Bengaluru'],2000,10
+599,Szechuan Dragon,5.0,Chinese,['Basavanagudi'],['South Bengaluru'],2000,10
+600,Sstella Kitchen and Bar,4.3,"Pan Asian, Chinese",['Bannerghatta Road'],['South Bengaluru'],2000,10
+601,Sstella Kitchen and Bar,4.3,"Pan Asian, Chinese",['Bannerghatta Road'],['South Bengaluru'],2000,10
+602,Babylonia,4.2,Multicuisine,['Koramangala 7th Block'],['South Bengaluru'],2000,25
+603,Babylonia,4.2,Multicuisine,['Koramangala 7th Block'],['South Bengaluru'],2000,25
+604,Jamming Goat 3.0,3.0,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,10
+605,Jamming Goat 3.0,3.0,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,10
+606,Tea Villa Cafe,4.8,"Chinese, North Indian",['Jayanagar'],['South Bengaluru'],550,25
+607,Tea Villa Cafe,4.8,"Chinese, North Indian",['Jayanagar'],['South Bengaluru'],550,25
+608,By The Blue,4.2,North Indian,[],[],2000,10
+609,By The Blue,4.2,North Indian,[],[],2000,10
+610,ee Kavii,4.9,"Pan Asian, Continental",['JP Nagar'],['South Bengaluru'],2000,10
+611,ee Kavii,4.9,"Pan Asian, Continental",['JP Nagar'],['South Bengaluru'],2000,10
+612,Hebe's,4.5,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+613,Hebe's,4.5,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+614,Dindigul Ponram,4.3,South Indian,['Koramangala 8th Block'],['South Bengaluru'],800,25
+615,Dindigul Ponram,4.3,South Indian,['Koramangala 8th Block'],['South Bengaluru'],800,25
+616,Restaurant 1179,3.0,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+617,Restaurant 1179,3.0,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+618,Marrakesh,4.2,Multicuisine,['JP Nagar'],['South Bengaluru'],1000,25
+619,Marrakesh,4.2,Multicuisine,['JP Nagar'],['South Bengaluru'],1000,25
+620,The Creek,4.0,Multicuisine,['The Den'],[],3000,10
+621,The Creek,4.0,Multicuisine,['The Den'],[],3000,10
+622,Stories - Bar & Kitchen,4.2,"Cocktail Menu, Multicuisine",['Banashankari'],['South Bengaluru'],2000,15
+623,Stories - Bar & Kitchen,4.2,"Cocktail Menu, Multicuisine",['Banashankari'],['South Bengaluru'],2000,15
+624,Frozen Bottle,5.0,"Beverages, Desserts",['Brigade Road'],['Central Bengaluru'],2000,10
+625,Frozen Bottle,5.0,"Beverages, Desserts",['Brigade Road'],['Central Bengaluru'],2000,10
+626,Flavours of Bharat,5.0,Multicuisine,['Sankey Road'],['North Bengaluru'],2500,10
+627,Flavours of Bharat,5.0,Multicuisine,['Sankey Road'],['North Bengaluru'],2500,10
+628,Triple Eight Rooftop Bar & Kitchen,5.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],1200,15
+629,Triple Eight Rooftop Bar & Kitchen,5.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],1200,15
+630,Fifty 50,5.0,Multicuisine,"['RMZ Ecoworld, Bellandur']",['South Bengaluru'],2500,25
+631,Fifty 50,5.0,Multicuisine,"['RMZ Ecoworld, Bellandur']",['South Bengaluru'],2500,25
+632,Chameleon Lounge Bar,4.5,Finger Food,['Comfort INN Insys'],[],2000,15
+633,Chameleon Lounge Bar,4.5,Finger Food,['Comfort INN Insys'],[],2000,15
+634,Biere Kraft Brew & Kitchen,4.5,Multicuisine,['Mahadevapura'],[],1000,15
+635,Biere Kraft Brew & Kitchen,4.5,Multicuisine,['Mahadevapura'],[],1000,15
+636,Sharief Bhai Biryani,5.0,Multicuisine,['Frazer Town'],['Central Bengaluru'],2000,25
+637,Sharief Bhai Biryani,5.0,Multicuisine,['Frazer Town'],['Central Bengaluru'],2000,25
+638,21st Amendment,4.3,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+639,21st Amendment,4.3,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+640,Sadda Punjabi Dhaba,4.1,"Barbeque, North Indian",['HSR'],['South Bengaluru'],2000,10
+641,Sadda Punjabi Dhaba,4.1,"Barbeque, North Indian",['HSR'],['South Bengaluru'],2000,10
+642,Altitude Kitchen & Bar,3.4,"Cocktail Menu, Multicuisine",['Basaveshwara Nagar'],['West Bengaluru'],2000,20
+643,Altitude Kitchen & Bar,3.4,"Cocktail Menu, Multicuisine",['Basaveshwara Nagar'],['West Bengaluru'],2000,20
+644,Escape By Brewklyn,4.8,Multicuisine,['Nagawara'],['North Bengaluru'],1200,10
+645,Escape By Brewklyn,4.8,Multicuisine,['Nagawara'],['North Bengaluru'],1200,10
+646,My Place,4.4,Multicuisine,[],[],2500,30
+647,My Place,4.4,Multicuisine,[],[],2500,30
+648,Jeff’s Cantina,3.7,"Indian, Italian, Continental",['Royal Orchid Hotel'],[],2500,15
+649,Jeff’s Cantina,3.7,"Indian, Italian, Continental",['Royal Orchid Hotel'],[],2500,15
+650,Jamming Goat 3.0,3.0,Multicuisine,['Kundalahalli'],[],1200,10
+651,Jamming Goat 3.0,3.0,Multicuisine,['Kundalahalli'],[],1200,10
+652,Red Rhino,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+653,Red Rhino,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+654,Gelato Italiano,4.0,Ice Cream,['Garuda Mall'],['Magrath Road'],2000,10
+655,Gelato Italiano,4.0,Ice Cream,['Garuda Mall'],['Magrath Road'],2000,10
+656,Samosa Singh,4.0,Street Food,['Garuda Mall'],['Ashok Nagar'],300,10
+657,Samosa Singh,4.0,Street Food,['Garuda Mall'],['Ashok Nagar'],300,10
+658,Thai Boba,4.0,Beverages,['Brigade Road'],['Central Bengaluru'],300,10
+659,Thai Boba,4.0,Beverages,['Brigade Road'],['Central Bengaluru'],300,10
+660,Ape’s Kitchen,4.0,Continental,['Vasanth Nagar'],['Central Bengaluru'],2000,10
+661,Ape’s Kitchen,4.0,Continental,['Vasanth Nagar'],['Central Bengaluru'],2000,10
+662,Town Food,4.0,"Pizza, Burgers",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+663,Town Food,4.0,"Pizza, Burgers",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+664,Lickies Gelato - Ice Cream & Bubble Tea,4.0,"Ice Cream, Bubble Tea",['Ashok Nagar'],[],2000,10
+665,Lickies Gelato - Ice Cream & Bubble Tea,4.0,"Ice Cream, Bubble Tea",['Ashok Nagar'],[],2000,10
+666,Jigarthanda,4.0,Desserts,['Old Madras Road'],['East Bengaluru'],2000,10
+667,Jigarthanda,4.0,Desserts,['Old Madras Road'],['East Bengaluru'],2000,10
+668,Mama Shawarma,4.0,Multicuisine,['MG Road'],['Central Bengaluru'],2000,10
+669,Mama Shawarma,4.0,Multicuisine,['MG Road'],['Central Bengaluru'],2000,10
+670,Paddy Platter: Rice & Shine,4.0,Indian,['Ashok Nagar'],[],2000,10
+671,Paddy Platter: Rice & Shine,4.0,Indian,['Ashok Nagar'],[],2000,10
+672,Kruthika Chats,4.0,Street Food,['Ulsoor'],['East Bengaluru'],2000,10
+673,Kruthika Chats,4.0,Street Food,['Ulsoor'],['East Bengaluru'],2000,10
+674,Jigarthanda,4.0,Desserts,['Old Madras Road'],['East Bengaluru'],2000,10
+675,Jigarthanda,4.0,Desserts,['Old Madras Road'],['East Bengaluru'],2000,10
+676,Woffleday,4.0,"Beverages, Desserts",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+677,Woffleday,4.0,"Beverages, Desserts",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+678,Noir eT Blanc Cafe,4.0,Multicuisine,['Ashok Nagar'],[],500,10
+679,Noir eT Blanc Cafe,4.0,Multicuisine,['Ashok Nagar'],[],500,10
+680,Kalmane Koffees,4.0,Cafe,['Brigade Road'],['Central Bengaluru'],250,10
+681,Kalmane Koffees,4.0,Cafe,['Brigade Road'],['Central Bengaluru'],250,10
+682,Malabar Wala,4.0,Kerala,['1 Sobha Mall'],['Ashok Nagar'],400,10
+683,Malabar Wala,4.0,Kerala,['1 Sobha Mall'],['Ashok Nagar'],400,10
+684,Urban Fork,4.0,Cafe,['Frazer Town'],['Central Bengaluru'],800,10
+685,Urban Fork,4.0,Cafe,['Frazer Town'],['Central Bengaluru'],800,10
+686,New Metro Cafe,4.0,Coffee and Tea,['Old Madras Road'],['East Bengaluru'],2000,10
+687,New Metro Cafe,4.0,Coffee and Tea,['Old Madras Road'],['East Bengaluru'],2000,10
+688,Mitti Cafe,4.0,"Beverages, Cafe",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+689,Mitti Cafe,4.0,"Beverages, Cafe",['Vasanth Nagar'],['Central Bengaluru'],2000,10
+690,Drunken Monkey,4.0,Beverages,['Vasanth Nagar'],['Central Bengaluru'],2000,10
+691,Drunken Monkey,4.0,Beverages,['Vasanth Nagar'],['Central Bengaluru'],2000,10
+692,Zubis Kitchen,4.0,"Chinese, North Indian",['Ulsoor'],['East Bengaluru'],2000,10
+693,Zubis Kitchen,4.0,"Chinese, North Indian",['Ulsoor'],['East Bengaluru'],2000,10
+694,Funky’s Town,4.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,10
+695,Funky’s Town,4.0,Multicuisine,['Brigade Road'],['Central Bengaluru'],2000,10
+696,The Omega - IX,4.0,Multicuisine,['Visthara Hotel'],[],2000,15
+697,The Omega - IX,4.0,Multicuisine,['Visthara Hotel'],[],2000,15
+698,Kebabs & Kurries,4.5,Indian,['ITC Gardenia'],[],3500,25
+699,Kebabs & Kurries,4.5,Indian,['ITC Gardenia'],[],3500,25
+700,Secret Sip Resto Bar,4.4,Multicuisine,['Banashankari'],['South Bengaluru'],2000,25
+701,Secret Sip Resto Bar,4.4,Multicuisine,['Banashankari'],['South Bengaluru'],2000,25
+702,Ssaffron,4.5,Indian,[],[],2500,25
+703,Ssaffron,4.5,Indian,[],[],2500,25
+704,Caffe Allora,4.5,Italian,['Phoenix Market City Mall'],[],2000,25
+705,Caffe Allora,4.5,Italian,['Phoenix Market City Mall'],[],2000,25
+706,Fox In The Field,4.2,Multicuisine,['Nexus Shantiniketan mall'],['East Bengaluru'],2000,20
+707,Fox In The Field,4.2,Multicuisine,['Nexus Shantiniketan mall'],['East Bengaluru'],2000,20
+708,Dobaraa,4.1,Multicuisine,['Phoenix Market City Mall'],[],2000,10
+709,Dobaraa,4.1,Multicuisine,['Phoenix Market City Mall'],[],2000,10
+710,The Square,4.2,Multicuisine,[],[],2500,20
+711,The Square,4.2,Multicuisine,[],[],2500,20
+712,Levels Pub & Kitchen,4.3,"Multicuisine, Pan Asian, Beverages, Chinese, Finger Food, Mughlai, North Indian, Pizza, Thai",['JP Nagar'],['South Bengaluru'],2000,10
+713,Levels Pub & Kitchen,4.3,"Multicuisine, Pan Asian, Beverages, Chinese, Finger Food, Mughlai, North Indian, Pizza, Thai",['JP Nagar'],['South Bengaluru'],2000,10
+714,The West View Lounge,4.8,Multicuisine,['Hennur'],['North Bengaluru'],2000,20
+715,The West View Lounge,4.8,Multicuisine,['Hennur'],['North Bengaluru'],2000,20
+716,Torye - Drink Dine & Dance,4.0,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+717,Torye - Drink Dine & Dance,4.0,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+718,Shaken & Stirred,2.9,"Finger Food, North Indian",['Race Course Road'],['Central Bengaluru'],2000,10
+719,Shaken & Stirred,2.9,"Finger Food, North Indian",['Race Course Road'],['Central Bengaluru'],2000,10
+720,Jimi's Beer Cafe,4.1,Multicuisine,['Indiranagar'],['East Bengaluru'],2500,15
+721,Jimi's Beer Cafe,4.1,Multicuisine,['Indiranagar'],['East Bengaluru'],2500,15
+722,The Fatty Bao,4.4,Pan Asian,['12th main'],['East Bengaluru'],2000,15
+723,The Fatty Bao,4.4,Pan Asian,['12th main'],['East Bengaluru'],2000,15
+724,Watson's,4.4,Multicuisine,['Ulsoor'],['East Bengaluru'],1500,25
+725,Watson's,4.4,Multicuisine,['Ulsoor'],['East Bengaluru'],1500,25
+726,Vapour Brewpub & Diner,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,15
+727,Vapour Brewpub & Diner,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,15
+728,one8 Commune,3.9,Multicuisine,['MG Road'],['Central Bengaluru'],2800,25
+729,one8 Commune,3.9,Multicuisine,['MG Road'],['Central Bengaluru'],2800,25
+730,Aurum Brew Works,4.3,"Cocktail Menu, Multicuisine",['Sarjapur Road'],['South Bengaluru'],1200,10
+731,Aurum Brew Works,4.3,"Cocktail Menu, Multicuisine",['Sarjapur Road'],['South Bengaluru'],1200,10
+732,Boche,3.0,Multicuisine,['Eva Mall'],['Ashok Nagar'],2000,10
+733,Boche,3.0,Multicuisine,['Eva Mall'],['Ashok Nagar'],2000,10
+734,Hungry Hippie,4.1,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+735,Hungry Hippie,4.1,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+736,Rajwadi,3.9,Multicuisine,['Brookefield'],['East Bengaluru'],2000,10
+737,Rajwadi,3.9,Multicuisine,['Brookefield'],['East Bengaluru'],2000,10
+738,Kitchen Ministry,4.4,"Multicuisine, Biryani, North Indian",['Indiranagar'],['East Bengaluru'],1200,10
+739,Kitchen Ministry,4.4,"Multicuisine, Biryani, North Indian",['Indiranagar'],['East Bengaluru'],1200,10
+740,Tiki Village Pub,4.2,Multicuisine,['Jalahalli'],['North Bengaluru'],2000,10
+741,Tiki Village Pub,4.2,Multicuisine,['Jalahalli'],['North Bengaluru'],2000,10
+742,Old Mill,4.6,Multicuisine,['Varthur Main Road'],[],2000,10
+743,Old Mill,4.6,Multicuisine,['Varthur Main Road'],[],2000,10
+744,BG's Poolside Bar & Grill,4.1,Multicuisine,[],[],2000,20
+745,BG's Poolside Bar & Grill,4.1,Multicuisine,[],[],2000,20
+746,Kampot,4.5,"Pan Asian, Vietnamese, Cambodian",['Bellandur'],['South Bengaluru'],2000,10
+747,Kampot,4.5,"Pan Asian, Vietnamese, Cambodian",['Bellandur'],['South Bengaluru'],2000,10
+748,Tapori The RestoBar,4.0,Multicuisine,['Koramangala 8th Block'],['South Bengaluru'],1500,20
+749,Tapori The RestoBar,4.0,Multicuisine,['Koramangala 8th Block'],['South Bengaluru'],1500,20
+750,Barnhouse,4.6,Multicuisine,['Kannamangala'],[],4000,25
+751,Barnhouse,4.6,Multicuisine,['Kannamangala'],[],4000,25
+752,The Black Pearl,4.0,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,10
+753,The Black Pearl,4.0,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,10
+754,Amoeba Sports Bar,3.8,Multicuisine,['Ascendas Park Square'],[],2000,10
+755,Amoeba Sports Bar,3.8,Multicuisine,['Ascendas Park Square'],[],2000,10
+756,Food Springs,4.3,"Thai, Chinese",['Jayanagar'],['South Bengaluru'],800,10
+757,Food Springs,4.3,"Thai, Chinese",['Jayanagar'],['South Bengaluru'],800,10
+758,Koi Kitchen,4.5,Multicuisine,['Old Madras Road'],['East Bengaluru'],2000,10
+759,Koi Kitchen,4.5,Multicuisine,['Old Madras Road'],['East Bengaluru'],2000,10
+760,Toy Boy,4.0,"Finger Food, Cocktail Menu",['Lulu Global Mall'],[],2000,25
+761,Toy Boy,4.0,"Finger Food, Cocktail Menu",['Lulu Global Mall'],[],2000,25
+762,Jetlag,4.1,"Cocktail Menu, Multicuisine",['Rajajinagar'],['West Bengaluru'],2000,10
+763,Jetlag,4.1,"Cocktail Menu, Multicuisine",['Rajajinagar'],['West Bengaluru'],2000,10
+764,Gulp Cocktails & Kitchen,4.2,"Shakes, Momos, Continental, Salad, Biryani, Chinese, Desserts, Pizza, South Indian, Pasta, Mangalorean, Kebabs, Finger Food, North Indian",['Banashankari'],['South Bengaluru'],2000,10
+765,Gulp Cocktails & Kitchen,4.2,"Shakes, Momos, Continental, Salad, Biryani, Chinese, Desserts, Pizza, South Indian, Pasta, Mangalorean, Kebabs, Finger Food, North Indian",['Banashankari'],['South Bengaluru'],2000,10
+766,Bamey's Restro Cafe,4.3,"Chinese, Nepalese",['Koramangala'],['South Bengaluru'],2000,10
+767,Bamey's Restro Cafe,4.3,"Chinese, Nepalese",['Koramangala'],['South Bengaluru'],2000,10
+768,Ishaara,4.0,Multicuisine,['St. Marks Road'],['Central Bengaluru'],1800,25
+769,Ishaara,4.0,Multicuisine,['St. Marks Road'],['Central Bengaluru'],1800,25
+770,Roto Rooftop Taproom,4.5,"Finger Food, Cocktail Menu",['Hennur'],['North Bengaluru'],2000,10
+771,Roto Rooftop Taproom,4.5,"Finger Food, Cocktail Menu",['Hennur'],['North Bengaluru'],2000,10
+772,Edo Restaurant & Bar,4.3,"Japanese, Asian",['ITC Gardenia'],[],4500,25
+773,Edo Restaurant & Bar,4.3,"Japanese, Asian",['ITC Gardenia'],[],4500,25
+774,The Merak Brewhouse,4.2,Finger Food,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2000,25
+775,The Merak Brewhouse,4.2,Finger Food,"['JW Marriott, Bengaluru']",['Central Bengaluru'],2000,25
+776,Copitas,4.9,"Finger Food, Cocktail Menu",[],[],2500,15
+777,Copitas,4.9,"Finger Food, Cocktail Menu",[],[],2500,15
+778,Cinders Rooftop Barbeque,4.1,"Multicuisine, Barbeque",['Comfort INN Insys'],[],2000,15
+779,Cinders Rooftop Barbeque,4.1,"Multicuisine, Barbeque",['Comfort INN Insys'],[],2000,15
+780,Hydeout Bar and Lounge,3.9,Finger Food,[],[],2000,10
+781,Hydeout Bar and Lounge,3.9,Finger Food,[],[],2000,10
+782,SKYROOT BY TOF,3.3,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,10
+783,SKYROOT BY TOF,3.3,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,10
+784,Punjab Bistro,4.1,North Indian,['Mahadevapura'],[],2000,10
+785,Punjab Bistro,4.1,North Indian,['Mahadevapura'],[],2000,10
+786,Cafe Baha,4.6,"Indian, European",['Akshayanagar'],['South Bengaluru'],2000,15
+787,Cafe Baha,4.6,"Indian, European",['Akshayanagar'],['South Bengaluru'],2000,15
+788,The Bistro @ Global Village,4.1,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+789,The Bistro @ Global Village,4.1,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+790,153 Biere Street,4.1,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+791,153 Biere Street,4.1,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+792,Shokudo Select,4.7,"Japanese, Korean, Pan Asian",['Banaswadi'],['North Bengaluru'],2000,25
+793,Shokudo Select,4.7,"Japanese, Korean, Pan Asian",['Banaswadi'],['North Bengaluru'],2000,25
+794,Eagle's Perch,4.0,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2500,10
+795,Eagle's Perch,4.0,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2500,10
+796,Fabelle,5.0,Chocolate Boutique,['Welcomhotel By ITC Hotels'],['Richmond Road'],2000,25
+797,Fabelle,5.0,Chocolate Boutique,['Welcomhotel By ITC Hotels'],['Richmond Road'],2000,25
+798,Mekeba,4.0,Multicuisine,['Koramangala'],['South Bengaluru'],800,10
+799,Mekeba,4.0,Multicuisine,['Koramangala'],['South Bengaluru'],800,10
+800,Arabian Hot Spot,5.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],800,10
+801,Arabian Hot Spot,5.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],800,10
+802,Krispy Kreme,4.0,Desserts,['Richmond Road'],['Central Bengaluru'],350,25
+803,Krispy Kreme,4.0,Desserts,['Richmond Road'],['Central Bengaluru'],350,25
+804,Original Burger Co.,4.5,Burgers,['JP Nagar 5th Phase'],['South Bengaluru'],800,10
+805,Original Burger Co.,4.5,Burgers,['JP Nagar 5th Phase'],['South Bengaluru'],800,10
+806,Big Bang Pizza,5.0,"Beverages, Italian",['Frazer Town'],['Central Bengaluru'],2000,25
+807,Big Bang Pizza,5.0,"Beverages, Italian",['Frazer Town'],['Central Bengaluru'],2000,25
+808,Barley Pop,4.9,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+809,Barley Pop,4.9,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+810,Onesta,4.5,Italian,['Konanakunte'],['South Bengaluru'],2000,25
+811,Onesta,4.5,Italian,['Konanakunte'],['South Bengaluru'],2000,25
+812,Far & East,4.4,"Thai, Japanese, Chinese",[],[],3500,15
+813,Far & East,4.4,"Thai, Japanese, Chinese",[],[],3500,15
+814,Banoffee,4.2,European,['HSR'],['South Bengaluru'],2000,25
+815,Banoffee,4.2,European,['HSR'],['South Bengaluru'],2000,25
+816,The Bengaluru Brasserie,4.2,Multicuisine,[],[],2000,25
+817,The Bengaluru Brasserie,4.2,Multicuisine,[],[],2000,25
+818,Story Coffee,4.0,"Cafe, Fast Food",['Koramangala'],['South Bengaluru'],600,10
+819,Story Coffee,4.0,"Cafe, Fast Food",['Koramangala'],['South Bengaluru'],600,10
+820,Sea Spice,4.7,"Indian, Seafood",['Malleshwaram'],['West Bengaluru'],2000,10
+821,Sea Spice,4.7,"Indian, Seafood",['Malleshwaram'],['West Bengaluru'],2000,10
+822,Brau Galie Microbrewery,4.7,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2000,25
+823,Brau Galie Microbrewery,4.7,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2000,25
+824,MYKA Cafe & Boutique,4.6,"Coffee, Italian",['Whitefield'],['East Bengaluru'],2000,10
+825,MYKA Cafe & Boutique,4.6,"Coffee, Italian",['Whitefield'],['East Bengaluru'],2000,10
+826,Sea Route Family Resto Bar,4.4,"Konkan, Indian Coastal Cuisine, Mangalorean, Indian, Seafood",['Rajajinagar'],['West Bengaluru'],2000,25
+827,Sea Route Family Resto Bar,4.4,"Konkan, Indian Coastal Cuisine, Mangalorean, Indian, Seafood",['Rajajinagar'],['West Bengaluru'],2000,25
+828,Bamboo Restaurant,4.3,"Chinese, Indian",['Kalyan Nagar'],['North Bengaluru'],500,25
+829,Bamboo Restaurant,4.3,"Chinese, Indian",['Kalyan Nagar'],['North Bengaluru'],500,25
+830,Macaw By Stories,4.2,Multicuisine,[],[],2000,15
+831,Macaw By Stories,4.2,Multicuisine,[],[],2000,15
+832,Momo Company,5.0,"Momos, Chinese",['KR Puram'],['North Bengaluru'],2000,50
+833,Momo Company,5.0,"Momos, Chinese",['KR Puram'],['North Bengaluru'],2000,50
+834,Ilumi,4.3,"Korean, Pan Asian",['100 Feet Road'],['East Bengaluru'],1500,10
+835,Ilumi,4.3,"Korean, Pan Asian",['100 Feet Road'],['East Bengaluru'],1500,10
+836,Arena Brewhouse,4.7,Multicuisine,['Indiranagar'],['East Bengaluru'],5000,25
+837,Arena Brewhouse,4.7,Multicuisine,['Indiranagar'],['East Bengaluru'],5000,25
+838,Tuk Tuk Thai,4.6,Asian,['Whitefield'],['East Bengaluru'],2000,10
+839,Tuk Tuk Thai,4.6,Asian,['Whitefield'],['East Bengaluru'],2000,10
+840,Memories Resto Bar,4.4,Multicuisine,['AECS Layout'],['South Bengaluru'],2000,25
+841,Memories Resto Bar,4.4,Multicuisine,['AECS Layout'],['South Bengaluru'],2000,25
+842,Chili’s Grill & Bar,4.6,Tex-Mex,['Bellandur'],['South Bengaluru'],1700,25
+843,Chili’s Grill & Bar,4.6,Tex-Mex,['Bellandur'],['South Bengaluru'],1700,25
+844,Pinocchio Ristorante,4.5,Italian,['Ashok Nagar'],[],700,25
+845,Pinocchio Ristorante,4.5,Italian,['Ashok Nagar'],[],700,25
+846,Roxbury Bar & Kitchen,4.8,Multicuisine,['Hennur'],['North Bengaluru'],1200,15
+847,Roxbury Bar & Kitchen,4.8,Multicuisine,['Hennur'],['North Bengaluru'],1200,15
+848,Good Flippin' Burgers,4.0,American,['Church Street'],['Central Bengaluru'],1100,25
+849,Good Flippin' Burgers,4.0,American,['Church Street'],['Central Bengaluru'],1100,25
+850,CEVI,4.7,"Indian, Seafood, Indian Coastal Cuisine",['HSR'],['South Bengaluru'],2000,10
+851,CEVI,4.7,"Indian, Seafood, Indian Coastal Cuisine",['HSR'],['South Bengaluru'],2000,10
+852,404 By TOF,5.0,Multicuisine,['S.G. Palya'],[],1000,10
+853,404 By TOF,5.0,Multicuisine,['S.G. Palya'],[],1000,10
+854,Ouzo by Fire,4.0,Mangalorean,['Indiranagar'],['East Bengaluru'],2000,10
+855,Ouzo by Fire,4.0,Mangalorean,['Indiranagar'],['East Bengaluru'],2000,10
+856,Luscious,4.0,"Continental, Chinese","[""St. Mark's Hotel""]",[],2000,25
+857,Luscious,4.0,"Continental, Chinese","[""St. Mark's Hotel""]",[],2000,25
+858,Sarathi Resto Bar,4.0,Multicuisine,['Ashok Nagar'],[],1200,25
+859,Sarathi Resto Bar,4.0,Multicuisine,['Ashok Nagar'],[],1200,25
+860,Roots,4.2,Indian,['Koramangala'],['South Bengaluru'],2000,15
+861,Roots,4.2,Indian,['Koramangala'],['South Bengaluru'],2000,15
+862,The Dome Cafe,4.0,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+863,The Dome Cafe,4.0,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+864,Tycoons,4.3,Multicuisine,['12th main'],['East Bengaluru'],2000,20
+865,Tycoons,4.3,Multicuisine,['12th main'],['East Bengaluru'],2000,20
+866,DRIP,5.0,"Bakery, Beverages",[],[],2000,25
+867,DRIP,5.0,"Bakery, Beverages",[],[],2000,25
+868,Fyole Cafe,5.0,Bakery,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+869,Fyole Cafe,5.0,Bakery,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,20
+870,Sixth Stage Pub,5.0,Multicuisine,['Banashankari'],['South Bengaluru'],1000,25
+871,Sixth Stage Pub,5.0,Multicuisine,['Banashankari'],['South Bengaluru'],1000,25
+872,Coffee Brewery,5.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2500,10
+873,Coffee Brewery,5.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2500,10
+874,Little Italy,4.3,"Mexican, Italian",['Kalyan Nagar'],['North Bengaluru'],2000,10
+875,Little Italy,4.3,"Mexican, Italian",['Kalyan Nagar'],['North Bengaluru'],2000,10
+876,Green Beans Coffee,5.0,"European, Coffee and Tea",['Kanakapura Road'],['South Bengaluru'],2000,25
+877,Green Beans Coffee,5.0,"European, Coffee and Tea",['Kanakapura Road'],['South Bengaluru'],2000,25
+878,MoMo Cafe,4.5,Multicuisine,['Courtyard by Marriott'],[],2500,20
+879,MoMo Cafe,4.5,Multicuisine,['Courtyard by Marriott'],[],2500,20
+880,Silbatti,4.0,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+881,Silbatti,4.0,Multicuisine,['HSR'],['South Bengaluru'],2000,10
+882,"TECHiLA - Mexican Pub, Indian Twist",4.5,Multicuisine,['Thanisandra'],[],2000,15
+883,"TECHiLA - Mexican Pub, Indian Twist",4.5,Multicuisine,['Thanisandra'],[],2000,15
+884,Le Grapes Restobar,4.2,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,10
+885,Le Grapes Restobar,4.2,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,10
+886,The Rasoiya Street,4.8,Multicuisine,['HSR'],['South Bengaluru'],1100,25
+887,The Rasoiya Street,4.8,Multicuisine,['HSR'],['South Bengaluru'],1100,25
+888,Masala Martini,4.5,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,25
+889,Masala Martini,4.5,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,25
+890,Barrys Sky Lounge,4.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,15
+891,Barrys Sky Lounge,4.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,15
+892,Koreyaki,3.9,Korean,['Indiranagar'],['East Bengaluru'],2000,25
+893,Koreyaki,3.9,Korean,['Indiranagar'],['East Bengaluru'],2000,25
+894,Paris Panini - Gourmet Sandwiches & Wraps,4.9,"French, Cafe",['Church Street'],['Central Bengaluru'],2000,25
+895,Paris Panini - Gourmet Sandwiches & Wraps,4.9,"French, Cafe",['Church Street'],['Central Bengaluru'],2000,25
+896,Shegan Bar & Kitchen,4.2,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+897,Shegan Bar & Kitchen,4.2,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+898,Lobby Lounge,4.9,Cafe,[],[],2000,25
+899,Lobby Lounge,4.9,Cafe,[],[],2000,25
+900,Fat Owl,4.2,"Finger Food, Cocktail Menu",['JP Nagar'],['South Bengaluru'],1200,10
+901,Fat Owl,4.2,"Finger Food, Cocktail Menu",['JP Nagar'],['South Bengaluru'],1200,10
+902,Wanderers Craft Brewery,4.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],1250,10
+903,Wanderers Craft Brewery,4.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],1250,10
+904,Big Bean Cafe,4.9,Coffee,['Koramangala'],['South Bengaluru'],1300,10
+905,Big Bean Cafe,4.9,Coffee,['Koramangala'],['South Bengaluru'],1300,10
+906,Big Bean Cafe,5.0,Continental,['Jayanagar'],['South Bengaluru'],650,10
+907,Big Bean Cafe,5.0,Continental,['Jayanagar'],['South Bengaluru'],650,10
+908,Punjab Curry House,5.0,North Indian,['Garuda Mall'],['Magrath Road'],2000,25
+909,Punjab Curry House,5.0,North Indian,['Garuda Mall'],['Magrath Road'],2000,25
+910,Dolci - Lavelle Road,5.0,European,['Lavelle Road'],['Central Bengaluru'],800,25
+911,Dolci - Lavelle Road,5.0,European,['Lavelle Road'],['Central Bengaluru'],800,25
+912,Chai Point,5.0,Cafe,['MG Road'],['Central Bengaluru'],2000,25
+913,Chai Point,5.0,Cafe,['MG Road'],['Central Bengaluru'],2000,25
+914,Cake Make,5.0,Bakery,['Ulsoor'],['East Bengaluru'],2000,25
+915,Cake Make,5.0,Bakery,['Ulsoor'],['East Bengaluru'],2000,25
+916,Biryani By Kilo,4.2,"Mughlai, Biryani",['Koramangala'],['South Bengaluru'],2000,20
+917,Biryani By Kilo,4.2,"Mughlai, Biryani",['Koramangala'],['South Bengaluru'],2000,20
+918,Art of Delight,4.7,"Desserts, Ice Cream",['Residency Road'],['Central Bengaluru'],2000,25
+919,Art of Delight,4.7,"Desserts, Ice Cream",['Residency Road'],['Central Bengaluru'],2000,25
+920,Kensho Rooftop Pub,3.7,Multicuisine,"['Hotel Leroy Grand, Yeshwanthpur']",[],2500,10
+921,Kensho Rooftop Pub,3.7,Multicuisine,"['Hotel Leroy Grand, Yeshwanthpur']",[],2500,10
+922,Lakeview Milk Bar,4.7,"Fast Food, Ice Cream",['MG Road'],['Central Bengaluru'],2000,25
+923,Lakeview Milk Bar,4.7,"Fast Food, Ice Cream",['MG Road'],['Central Bengaluru'],2000,25
+924,Bang,4.6,Cocktail Menu,['The Ritz-Carlton'],[],4000,25
+925,Bang,4.6,Cocktail Menu,['The Ritz-Carlton'],[],4000,25
+926,Bamey's Gastro Bar,4.6,"Nepalese, Chinese",['Koramangala 5th Block'],['South Bengaluru'],2000,10
+927,Bamey's Gastro Bar,4.6,"Nepalese, Chinese",['Koramangala 5th Block'],['South Bengaluru'],2000,10
+928,INOX,4.7,Fast Food,['Garuda Mall'],['Magrath Road'],2000,25
+929,INOX,4.7,Fast Food,['Garuda Mall'],['Magrath Road'],2000,25
+930,Sigdee,4.3,"Chinese, North Indian",['Frazer Town'],['Central Bengaluru'],2000,25
+931,Sigdee,4.3,"Chinese, North Indian",['Frazer Town'],['Central Bengaluru'],2000,25
+932,Yataii,4.5,Japanese,[],[],2500,25
+933,Yataii,4.5,Japanese,[],[],2500,25
+934,Hot Griddle,4.1,Multicuisine,['Jayanagar'],['South Bengaluru'],2000,10
+935,Hot Griddle,4.1,Multicuisine,['Jayanagar'],['South Bengaluru'],2000,10
+936,Italia,4.5,Italian,['The Park'],[],2500,25
+937,Italia,4.5,Italian,['The Park'],[],2500,25
+938,The Groot,4.0,European,['Bhartiya Mall'],[],2000,25
+939,The Groot,4.0,European,['Bhartiya Mall'],[],2000,25
+940,Banjara,3.9,Multicuisine,['Goldfinch Retreat'],['International Airport'],2000,25
+941,Banjara,3.9,Multicuisine,['Goldfinch Retreat'],['International Airport'],2000,25
+942,The Courtyard,3.9,Multicuisine,[],[],2000,10
+943,The Courtyard,3.9,Multicuisine,[],[],2000,10
+944,The Brew Factory - Brewery Pub & Kitchen,4.6,Multicuisine,['Peenya'],['North Bengaluru'],2000,10
+945,The Brew Factory - Brewery Pub & Kitchen,4.6,Multicuisine,['Peenya'],['North Bengaluru'],2000,10
+946,Turkish Souk,4.9,"Middle Eastern, Barbeque",['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+947,Turkish Souk,4.9,"Middle Eastern, Barbeque",['Rajarajeshwari Nagar'],['South Bengaluru'],2000,10
+948,Bramble Kitchen & Bar,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+949,Bramble Kitchen & Bar,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+950,The Pump House,4.5,"Cocktail Menu, Finger Food",['JP Nagar'],['South Bengaluru'],2000,25
+951,The Pump House,4.5,"Cocktail Menu, Finger Food",['JP Nagar'],['South Bengaluru'],2000,25
+952,The Liquid Bar & Restaurant,4.0,"Finger Food, Cocktail Menu",[],[],2500,25
+953,The Liquid Bar & Restaurant,4.0,"Finger Food, Cocktail Menu",[],[],2500,25
+954,Escape Bar & Kitchen,3.6,Multicuisine,['Kanakapura Road'],['South Bengaluru'],2000,10
+955,Escape Bar & Kitchen,3.6,Multicuisine,['Kanakapura Road'],['South Bengaluru'],2000,10
+956,The Roof - Asian Grill & Bar,4.0,Barbeque,[],[],3500,25
+957,The Roof - Asian Grill & Bar,4.0,Barbeque,[],[],3500,25
+958,Isobel Coffee House,4.0,"Coffee and Tea, Continental",['Ashok Nagar'],[],1000,25
+959,Isobel Coffee House,4.0,"Coffee and Tea, Continental",['Ashok Nagar'],[],1000,25
+960,"Anthara - Taproom, Cafe & Kitchen",3.8,"American, French",['Doddanekkundi'],[],800,10
+961,"Anthara - Taproom, Cafe & Kitchen",3.8,"American, French",['Doddanekkundi'],[],800,10
+962,Highland Nectar,4.0,"Cocktail Menu, Multicuisine",['ITC Gardenia'],[],2500,25
+963,Highland Nectar,4.0,"Cocktail Menu, Multicuisine",['ITC Gardenia'],[],2500,25
+964,6oz Coffee,4.0,"Cafe, Continental",['Halasuru'],[],600,25
+965,6oz Coffee,4.0,"Cafe, Continental",['Halasuru'],[],600,25
+966,Araku Coffee,4.0,"European, Cafe",['Ashok Nagar'],[],1500,25
+967,Araku Coffee,4.0,"European, Cafe",['Ashok Nagar'],[],1500,25
+968,Taco Bell,4.0,"Mexican, Tex-Mex",['Garuda Mall'],['Magrath Road'],2000,25
+969,Taco Bell,4.0,"Mexican, Tex-Mex",['Garuda Mall'],['Magrath Road'],2000,25
+970,Araku Coffee,4.0,Cafe,['Lavelle Road'],['Central Bengaluru'],1200,25
+971,Araku Coffee,4.0,Cafe,['Lavelle Road'],['Central Bengaluru'],1200,25
+972,Beijing Bistro,4.0,Chinese,['Garuda Mall'],['Magrath Road'],2000,25
+973,Beijing Bistro,4.0,Chinese,['Garuda Mall'],['Magrath Road'],2000,25
+974,Fanoos,4.0,Indian,['Richmond Town'],['Central Bengaluru'],2000,25
+975,Fanoos,4.0,Indian,['Richmond Town'],['Central Bengaluru'],2000,25
+976,The Corner,4.0,Bakery,[],[],2000,25
+977,The Corner,4.0,Bakery,[],[],2000,25
+978,Falafel Jee,4.0,Mediterranean,['Church Street'],['Central Bengaluru'],600,25
+979,Falafel Jee,4.0,Mediterranean,['Church Street'],['Central Bengaluru'],600,25
+980,Donne Biryani House,4.0,Biryani,['Residency Road'],['Central Bengaluru'],2000,25
+981,Donne Biryani House,4.0,Biryani,['Residency Road'],['Central Bengaluru'],2000,25
+982,The Bar,4.0,South Indian,[],[],2000,25
+983,The Bar,4.0,South Indian,[],[],2000,25
+984,Bloom Café,4.0,Multicuisine,['Bloom Hotel - Richmond Road'],[],1200,25
+985,Bloom Café,4.0,Multicuisine,['Bloom Hotel - Richmond Road'],[],1200,25
+986,Indian Spice Food Restaurant,4.0,"Chinese, Indian",['Ulsoor'],['East Bengaluru'],2000,25
+987,Indian Spice Food Restaurant,4.0,"Chinese, Indian",['Ulsoor'],['East Bengaluru'],2000,25
+988,Ice Cream Shop,4.0,Desserts,['Frazer Town'],['Central Bengaluru'],2000,25
+989,Ice Cream Shop,4.0,Desserts,['Frazer Town'],['Central Bengaluru'],2000,25
+990,Chaayos,4.0,Cafe,['Kasaba Hobli'],[],500,25
+991,Chaayos,4.0,Cafe,['Kasaba Hobli'],[],500,25
+992,Samosa Party,4.0,Street Food,['Ashok Nagar'],[],2000,25
+993,Samosa Party,4.0,Street Food,['Ashok Nagar'],[],2000,25
+994,Snaack shop,4.0,Fast Food,['Frazer Town'],['Central Bengaluru'],2000,25
+995,Snaack shop,4.0,Fast Food,['Frazer Town'],['Central Bengaluru'],2000,25
+996,Cake Bake Factory,4.0,Bakery,['Frazer Town'],['Central Bengaluru'],2000,25
+997,Cake Bake Factory,4.0,Bakery,['Frazer Town'],['Central Bengaluru'],2000,25
+998,Tea Lounge,4.0,"Chinese, Continental",['Ashok Nagar'],[],2000,25
+999,Tea Lounge,4.0,"Chinese, Continental",['Ashok Nagar'],[],2000,25
+1000,Ramji chaiwale,4.0,Beverages,['Ashok Nagar'],[],2000,25
+1001,Ramji chaiwale,4.0,Beverages,['Ashok Nagar'],[],2000,25
+1002,The Sidewalk Restaurant & Cafe,4.0,Multicuisine,"[""Nahar's Heritage Hotel""]",[],2000,25
+1003,The Sidewalk Restaurant & Cafe,4.0,Multicuisine,"[""Nahar's Heritage Hotel""]",[],2000,25
+1004,Kalyani food,4.0,Fast Food,['Ashok Nagar'],[],2000,25
+1005,Kalyani food,4.0,Fast Food,['Ashok Nagar'],[],2000,25
+1006,Just Yummy,4.0,Fast Food,['Magrath Road'],[],2000,25
+1007,Just Yummy,4.0,Fast Food,['Magrath Road'],[],2000,25
+1008,Sukino Cafe & Kitchen,5.0,Multicuisine,['Banashankari'],['South Bengaluru'],800,25
+1009,Sukino Cafe & Kitchen,5.0,Multicuisine,['Banashankari'],['South Bengaluru'],800,25
+1010,The Hub,4.0,Cocktail Menu,['Ibis Hotel'],['Richmond Road'],2000,25
+1011,The Hub,4.0,Cocktail Menu,['Ibis Hotel'],['Richmond Road'],2000,25
+1012,"KYBA - Sushi, Dim Sums & More",4.3,Pan Asian,['Visthara Hotel'],[],2000,15
+1013,"KYBA - Sushi, Dim Sums & More",4.3,Pan Asian,['Visthara Hotel'],[],2000,15
+1014,Dave and Buster's,4.2,Multicuisine,['Koramangala'],['South Bengaluru'],1200,10
+1015,Dave and Buster's,4.2,Multicuisine,['Koramangala'],['South Bengaluru'],1200,10
+1016,Habba Kadal - Kashmiri Fine Dining Restaurant,4.2,Kashmiri,['Whitefield'],['East Bengaluru'],2000,10
+1017,Habba Kadal - Kashmiri Fine Dining Restaurant,4.2,Kashmiri,['Whitefield'],['East Bengaluru'],2000,10
+1018,Neo-Kitchen,4.3,Multicuisine,[],[],3500,10
+1019,Neo-Kitchen,4.3,Multicuisine,[],[],3500,10
+1020,Marroni Bistro,5.0,"Continental, Mexican",['Kanakapura Road'],['South Bengaluru'],800,25
+1021,Marroni Bistro,5.0,"Continental, Mexican",['Kanakapura Road'],['South Bengaluru'],800,25
+1022,The Verandah,4.0,Multicuisine,[],[],2500,15
+1023,The Verandah,4.0,Multicuisine,[],[],2500,15
+1024,M Cafe,4.3,Multicuisine,[],[],2500,10
+1025,M Cafe,4.3,Multicuisine,[],[],2500,10
+1026,Shao,4.5,"Chinese, Sushi, Dim Sum",[],[],2500,10
+1027,Shao,4.5,"Chinese, Sushi, Dim Sum",[],[],2500,10
+1028,Barley Broo,4.4,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,20
+1029,Barley Broo,4.4,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,20
+1030,What's In A Name,4.0,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1031,What's In A Name,4.0,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1032,Justbe by Nidhi Nahata,4.8,"Vegan, Multicuisine",['Sadashiv Nagar'],['North Bengaluru'],2000,10
+1033,Justbe by Nidhi Nahata,4.8,"Vegan, Multicuisine",['Sadashiv Nagar'],['North Bengaluru'],2000,10
+1034,Hyderabadi Bawarchi,1.8,Biryani,['Yelahanka'],['North Bengaluru'],2000,15
+1035,Hyderabadi Bawarchi,1.8,Biryani,['Yelahanka'],['North Bengaluru'],2000,15
+1036,Harley's Fine Baking,5.0,"Bakery, Cafe",['Kalyan Nagar'],['North Bengaluru'],600,10
+1037,Harley's Fine Baking,5.0,"Bakery, Cafe",['Kalyan Nagar'],['North Bengaluru'],600,10
+1038,Hangover Brewery,4.0,"Multicuisine, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,15
+1039,Hangover Brewery,4.0,"Multicuisine, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,15
+1040,Big Bean Cafe,5.0,"Cafe, Coffee",['HSR'],['South Bengaluru'],650,10
+1041,Big Bean Cafe,5.0,"Cafe, Coffee",['HSR'],['South Bengaluru'],650,10
+1042,Aviator,3.0,Multicuisine,['Goldfinch Retreat'],['International Airport'],2000,25
+1043,Aviator,3.0,Multicuisine,['Goldfinch Retreat'],['International Airport'],2000,25
+1044,ILA BENGALURU - Bar & Kitchen,4.5,South Indian,['Kalyan Nagar'],['North Bengaluru'],2500,25
+1045,ILA BENGALURU - Bar & Kitchen,4.5,South Indian,['Kalyan Nagar'],['North Bengaluru'],2500,25
+1046,The Lotus Oriental,4.3,"Chinese, Pan Asian","['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,15
+1047,The Lotus Oriental,4.3,"Chinese, Pan Asian","['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,15
+1048,Vinnys,4.0,Italian,['Banashankari'],['South Bengaluru'],400,10
+1049,Vinnys,4.0,Italian,['Banashankari'],['South Bengaluru'],400,10
+1050,Saporeii - (Formerly 1BHK),4.4,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+1051,Saporeii - (Formerly 1BHK),4.4,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+1052,Rosé Restaurant & Patisserie,4.0,"Desserts, European",['Sanjay Nagar'],['North Bengaluru'],2000,10
+1053,Rosé Restaurant & Patisserie,4.0,"Desserts, European",['Sanjay Nagar'],['North Bengaluru'],2000,10
+1054,TherPUP - A Dog Cafe,4.1,"Continental, Cafe",['Whitefield'],['East Bengaluru'],2000,15
+1055,TherPUP - A Dog Cafe,4.1,"Continental, Cafe",['Whitefield'],['East Bengaluru'],2000,15
+1056,Kritunga Restaurant,3.8,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1057,Kritunga Restaurant,3.8,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1058,Citrus,4.5,Multicuisine,['The Leela Palace'],[],5900,10
+1059,Citrus,4.5,Multicuisine,['The Leela Palace'],[],5900,10
+1060,Sarki Lounge,4.5,Multicuisine,['Hulimavu'],[],2000,10
+1061,Sarki Lounge,4.5,Multicuisine,['Hulimavu'],[],2000,10
+1062,Sitara Dakshin,4.5,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,25
+1063,Sitara Dakshin,4.5,Multicuisine,['Indiranagar'],['East Bengaluru'],2000,25
+1064,Breads And Banter,4.6,Continental,['Brookefield'],['East Bengaluru'],2000,10
+1065,Breads And Banter,4.6,Continental,['Brookefield'],['East Bengaluru'],2000,10
+1066,Hoot craft work 2.0,2.0,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,25
+1067,Hoot craft work 2.0,2.0,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,25
+1068,La Gioia,4.4,Italian,['12th main'],['East Bengaluru'],2000,25
+1069,La Gioia,4.4,Italian,['12th main'],['East Bengaluru'],2000,25
+1070,Lotus,4.3,Indian,['Visthara Hotel'],[],2000,15
+1071,Lotus,4.3,Indian,['Visthara Hotel'],[],2000,15
+1072,Poco A Poco - Global Food & Music,4.6,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1073,Poco A Poco - Global Food & Music,4.6,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1074,ICB Indian Craft Brewery,4.7,Multicuisine,['Manyata Tech Park'],[],1800,25
+1075,ICB Indian Craft Brewery,4.7,Multicuisine,['Manyata Tech Park'],[],1800,25
+1076,Tap House 2.0,2.0,Multicuisine,['Electronic City'],['South Bengaluru'],1000,10
+1077,Tap House 2.0,2.0,Multicuisine,['Electronic City'],['South Bengaluru'],1000,10
+1078,Zazzy Bar & Kitchen,4.9,Multicuisine,['Jalahalli'],['North Bengaluru'],2000,10
+1079,Zazzy Bar & Kitchen,4.9,Multicuisine,['Jalahalli'],['North Bengaluru'],2000,10
+1080,Big Bean Cafe,5.0,Continental,['Indiranagar'],['East Bengaluru'],650,10
+1081,Big Bean Cafe,5.0,Continental,['Indiranagar'],['East Bengaluru'],650,10
+1082,Zafrani House,5.0,"Indian, Arabian, Chinese",['Kanakapura Road'],['South Bengaluru'],500,10
+1083,Zafrani House,5.0,"Indian, Arabian, Chinese",['Kanakapura Road'],['South Bengaluru'],500,10
+1084,PizzaExpress,4.6,"Pizza, Italian","['Phoenix Mall Of Asia, Yelahanka']",[],2000,25
+1085,PizzaExpress,4.6,"Pizza, Italian","['Phoenix Mall Of Asia, Yelahanka']",[],2000,25
+1086,Fab Cafe,5.0,"Indian, Continental",['Rajarajeshwari Nagar'],['South Bengaluru'],600,10
+1087,Fab Cafe,5.0,"Indian, Continental",['Rajarajeshwari Nagar'],['South Bengaluru'],600,10
+1088,Murphy's Brewhouse,4.4,"Multicuisine, Cocktail Menu",['The Paul'],[],2000,10
+1089,Murphy's Brewhouse,4.4,"Multicuisine, Cocktail Menu",['The Paul'],[],2000,10
+1090,Quattro,4.5,"Italian, Multicuisine","['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,15
+1091,Quattro,4.5,"Italian, Multicuisine","['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,15
+1092,1947 Restaurant - Rajajinagar,4.5,"Indian, Chinese",['Rajajinagar'],['West Bengaluru'],2000,10
+1093,1947 Restaurant - Rajajinagar,4.5,"Indian, Chinese",['Rajajinagar'],['West Bengaluru'],2000,10
+1094,Xochi,4.4,"Cocktail Menu, Multicuisine",['Bellandur'],['South Bengaluru'],2000,25
+1095,Xochi,4.4,"Cocktail Menu, Multicuisine",['Bellandur'],['South Bengaluru'],2000,25
+1096,Jolly Johnny's Bar,5.0,Italian,['Koramangala'],['South Bengaluru'],2500,10
+1097,Jolly Johnny's Bar,5.0,Italian,['Koramangala'],['South Bengaluru'],2500,10
+1098,Chowki Multicuisine Restaurant,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1099,Chowki Multicuisine Restaurant,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1100,Waves Bar & Kitchen,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1101,Waves Bar & Kitchen,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1102,Lucky Chan,4.5,"Pan Asian, Asian","['RMZ Ecoworld, Bellandur']",['South Bengaluru'],2500,25
+1103,Lucky Chan,4.5,"Pan Asian, Asian","['RMZ Ecoworld, Bellandur']",['South Bengaluru'],2500,25
+1104,Taiki,4.2,oriental,['100 Feet Road'],['East Bengaluru'],2000,25
+1105,Taiki,4.2,oriental,['100 Feet Road'],['East Bengaluru'],2000,25
+1106,Coast @ JP Nagar,4.5,"Seafood, Indian Coastal Cuisine",['JP Nagar'],['South Bengaluru'],2000,10
+1107,Coast @ JP Nagar,4.5,"Seafood, Indian Coastal Cuisine",['JP Nagar'],['South Bengaluru'],2000,10
+1108,The English Channel,4.7,Multicuisine,['Jayanagar'],['South Bengaluru'],1200,25
+1109,The English Channel,4.7,Multicuisine,['Jayanagar'],['South Bengaluru'],1200,25
+1110,CUR8,4.6,"Indian, Italian",[],[],3200,15
+1111,CUR8,4.6,"Indian, Italian",[],[],3200,15
+1112,Tall Oaks,4.5,Multicuisine,['Seegehalli'],['East Bengaluru'],2500,25
+1113,Tall Oaks,4.5,Multicuisine,['Seegehalli'],['East Bengaluru'],2500,25
+1114,Le-Celebration,4.3,Multicuisine,['Akshayanagar'],['South Bengaluru'],2000,10
+1115,Le-Celebration,4.3,Multicuisine,['Akshayanagar'],['South Bengaluru'],2000,10
+1116,Radio Bar,4.4,Multicuisine,['Bellandur'],['South Bengaluru'],2500,25
+1117,Radio Bar,4.4,Multicuisine,['Bellandur'],['South Bengaluru'],2500,25
+1118,The Italian Bar at La Gioia,5.0,Italian,['12th main'],['East Bengaluru'],2000,15
+1119,The Italian Bar at La Gioia,5.0,Italian,['12th main'],['East Bengaluru'],2000,15
+1120,Armadq Gastro Pub,3.5,Multicuisine,['Mahadevapura'],[],1800,10
+1121,Armadq Gastro Pub,3.5,Multicuisine,['Mahadevapura'],[],1800,10
+1122,Peepai Kitchen & Brewery,4.4,Multicuisine,['Hebbal'],['North Bengaluru'],2500,25
+1123,Peepai Kitchen & Brewery,4.4,Multicuisine,['Hebbal'],['North Bengaluru'],2500,25
+1124,Geometry Gastropub,3.9,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,15
+1125,Geometry Gastropub,3.9,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,15
+1126,Hunaaan,5.0,Pan Asian,['Indiranagar'],['East Bengaluru'],1500,25
+1127,Hunaaan,5.0,Pan Asian,['Indiranagar'],['East Bengaluru'],1500,25
+1128,Neer,5.0,South Indian,[],[],4000,10
+1129,Neer,5.0,South Indian,[],[],4000,10
+1130,G77,4.0,"Cafe, Fast Food",['Goldfinch Hotel'],[],2000,40
+1131,G77,4.0,"Cafe, Fast Food",['Goldfinch Hotel'],[],2000,40
+1132,Yuki - Brewhouse and Kitchen,4.6,"Pan Asian, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,25
+1133,Yuki - Brewhouse and Kitchen,4.6,"Pan Asian, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,25
+1134,Essotto,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1135,Essotto,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1136,Suku,4.7,"Japanese, Thai",['HSR'],['South Bengaluru'],2000,25
+1137,Suku,4.7,"Japanese, Thai",['HSR'],['South Bengaluru'],2000,25
+1138,Kakal Kai Ruchi,3.8,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1139,Kakal Kai Ruchi,3.8,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1140,The Pizza Bakery,4.5,"Pizza, Italian",['12th main'],['East Bengaluru'],2000,25
+1141,The Pizza Bakery,4.5,"Pizza, Italian",['12th main'],['East Bengaluru'],2000,25
+1142,K-OS The GameBar,4.1,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1143,K-OS The GameBar,4.1,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1144,Light of Italy,4.4,"Italian, Mexican",['HSR'],['South Bengaluru'],2000,10
+1145,Light of Italy,4.4,"Italian, Mexican",['HSR'],['South Bengaluru'],2000,10
+1146,Hydra Club & Kitchen,4.1,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2000,15
+1147,Hydra Club & Kitchen,4.1,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2000,15
+1148,Shift Lounge,3.8,Multicuisine,['Singasandra'],[],2000,15
+1149,Shift Lounge,3.8,Multicuisine,['Singasandra'],[],2000,15
+1150,Bhagini Kitchen & Bar,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1151,Bhagini Kitchen & Bar,3.9,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1152,Hangover,3.8,Multicuisine,['HSR'],['South Bengaluru'],2000,15
+1153,Hangover,3.8,Multicuisine,['HSR'],['South Bengaluru'],2000,15
+1154,Jalpaan,4.5,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,10
+1155,Jalpaan,4.5,Multicuisine,['Rajajinagar'],['West Bengaluru'],2000,10
+1156,Monks Bar & Social,4.4,"Multicuisine, Indian Coastal Cuisine",['Vega City Mall'],['Bannerghatta Road'],1200,10
+1157,Monks Bar & Social,4.4,"Multicuisine, Indian Coastal Cuisine",['Vega City Mall'],['Bannerghatta Road'],1200,10
+1158,Eat India Co.,2.4,"Indian, Fusion",['Whitefield'],['East Bengaluru'],2000,10
+1159,Eat India Co.,2.4,"Indian, Fusion",['Whitefield'],['East Bengaluru'],2000,10
+1160,Moxy Kitchen,5.0,"European, North Indian",[],[],2500,20
+1161,Moxy Kitchen,5.0,"European, North Indian",[],[],2500,20
+1162,Templar-7,1.0,Multicuisine,['MG Road'],['Central Bengaluru'],2000,25
+1163,Templar-7,1.0,Multicuisine,['MG Road'],['Central Bengaluru'],2000,25
+1164,Minx,1.0,Multicuisine,['1MG Road Mall'],['MG Road'],3000,25
+1165,Minx,1.0,Multicuisine,['1MG Road Mall'],['MG Road'],3000,25
+1166,Boho,4.1,Multicuisine,['Brookefields Mall'],[],2000,10
+1167,Boho,4.1,Multicuisine,['Brookefields Mall'],[],2000,10
+1168,Sunshine Cafe,4.5,"Cafe, European",['Koramangala'],['South Bengaluru'],800,25
+1169,Sunshine Cafe,4.5,"Cafe, European",['Koramangala'],['South Bengaluru'],800,25
+1170,House of Dopamine- HOD,3.7,Multicuisine,['Koramangala'],['South Bengaluru'],2500,10
+1171,House of Dopamine- HOD,3.7,Multicuisine,['Koramangala'],['South Bengaluru'],2500,10
+1172,Board 4 Bored,4.5,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,15
+1173,Board 4 Bored,4.5,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,15
+1174,Kallol By Cafe Durga,4.0,"Italian, Maharashtrian",['Jayanagar'],['South Bengaluru'],500,10
+1175,Kallol By Cafe Durga,4.0,"Italian, Maharashtrian",['Jayanagar'],['South Bengaluru'],500,10
+1176,AB's - Absolute Barbecues,4.5,Multicuisine,['BTM'],['South Bengaluru'],1950,25
+1177,AB's - Absolute Barbecues,4.5,Multicuisine,['BTM'],['South Bengaluru'],1950,25
+1178,Curryce Andhra Bhojnam,5.0,Indian,['Sahakara Nagar'],['North Bengaluru'],2000,10
+1179,Curryce Andhra Bhojnam,5.0,Indian,['Sahakara Nagar'],['North Bengaluru'],2000,10
+1180,Toro Brew House & Kitchen,4.4,Multicuisine,['Sanjay Nagar'],['North Bengaluru'],2500,10
+1181,Toro Brew House & Kitchen,4.4,Multicuisine,['Sanjay Nagar'],['North Bengaluru'],2500,10
+1182,re:cess,4.7,Desserts,[],[],2000,15
+1183,re:cess,4.7,Desserts,[],[],2000,15
+1184,Narmada,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,25
+1185,Narmada,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],2000,25
+1186,Whitefield Bar & Grill,3.4,Multicuisine,[],[],3000,25
+1187,Whitefield Bar & Grill,3.4,Multicuisine,[],[],3000,25
+1188,Jamavar,4.7,"Indian, North Indian",['The Leela Palace'],[],7080,10
+1189,Jamavar,4.7,"Indian, North Indian",['The Leela Palace'],[],7080,10
+1190,Prime Golf Brewing and Golfing,4.2,Multicuisine,['Whitefield'],['East Bengaluru'],2500,25
+1191,Prime Golf Brewing and Golfing,4.2,Multicuisine,['Whitefield'],['East Bengaluru'],2500,25
+1192,Sequence Restobar,5.0,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+1193,Sequence Restobar,5.0,Multicuisine,['Seshadripuram'],['Central Bengaluru'],2000,10
+1194,Simply Native,3.5,South Indian,['Domlur'],['East Bengaluru'],2000,15
+1195,Simply Native,3.5,South Indian,['Domlur'],['East Bengaluru'],2000,15
+1196,Ishaara,4.5,Modern Indian,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,10
+1197,Ishaara,4.5,Modern Indian,"['Phoenix Mall Of Asia, Yelahanka']",[],2000,10
+1198,"Soho Cafe, Pub & Grill",4.8,Multicuisine,['Basavanagudi'],['South Bengaluru'],2000,10
+1199,"Soho Cafe, Pub & Grill",4.8,Multicuisine,['Basavanagudi'],['South Bengaluru'],2000,10
+1200,Uptown Rooftop Grill & Bar,5.0,Multicuisine,['Sahakara Nagar'],['North Bengaluru'],2500,20
+1201,Uptown Rooftop Grill & Bar,5.0,Multicuisine,['Sahakara Nagar'],['North Bengaluru'],2500,20
+1202,Blue Galaxy Bar & Kitchen,2.8,"Indian, Chinese",['Gandhi Nagar'],['Central Bengaluru'],2000,10
+1203,Blue Galaxy Bar & Kitchen,2.8,"Indian, Chinese",['Gandhi Nagar'],['Central Bengaluru'],2000,10
+1204,Sindhoora Gardenia,4.5,Multicuisine,['Banashankari'],['South Bengaluru'],2000,10
+1205,Sindhoora Gardenia,4.5,Multicuisine,['Banashankari'],['South Bengaluru'],2000,10
+1206,Hitchki,4.3,Modern Indian,['Phoenix Market City Mall'],[],2000,25
+1207,Hitchki,4.3,Modern Indian,['Phoenix Market City Mall'],[],2000,25
+1208,Kebarbiq,4.1,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+1209,Kebarbiq,4.1,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+1210,The Broth Station,4.6,Pan Asian,['BTM'],['South Bengaluru'],2000,10
+1211,The Broth Station,4.6,Pan Asian,['BTM'],['South Bengaluru'],2000,10
+1212,Alanati Ruchulu,4.0,Multicuisine,['Jakkur'],['Central Bengaluru'],600,10
+1213,Alanati Ruchulu,4.0,Multicuisine,['Jakkur'],['Central Bengaluru'],600,10
+1214,Cafe Baha,4.0,"Italian, Continental",['Akshyanagar'],[],500,10
+1215,Cafe Baha,4.0,"Italian, Continental",['Akshyanagar'],[],500,10
+1216,Gully Gangz Sports Bar,1.0,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2500,20
+1217,Gully Gangz Sports Bar,1.0,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],2500,20
+1218,The Terrace at Gilly's Redefined,3.7,"Multicuisine, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,15
+1219,The Terrace at Gilly's Redefined,3.7,"Multicuisine, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,15
+1220,Naveen’s Bapu ki Kutiya,3.8,North Indian,['Varthur Main Road'],[],2000,10
+1221,Naveen’s Bapu ki Kutiya,3.8,North Indian,['Varthur Main Road'],[],2000,10
+1222,Ibbanni Cafe & Bristo,5.0,Multicuisine,['Subramanyapura'],[],600,10
+1223,Ibbanni Cafe & Bristo,5.0,Multicuisine,['Subramanyapura'],[],600,10
+1224,Food Affair - Veg Family Restaurant,4.7,Multicuisine,['BTM'],['South Bengaluru'],2000,10
+1225,Food Affair - Veg Family Restaurant,4.7,Multicuisine,['BTM'],['South Bengaluru'],2000,10
+1226,Tipsy Bull Brewhouse & Kitchen - Whitefield,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1227,Tipsy Bull Brewhouse & Kitchen - Whitefield,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1228,Global Buffet,3.3,Multicuisine,['Svenska Design Hotel'],[],2000,10
+1229,Global Buffet,3.3,Multicuisine,['Svenska Design Hotel'],[],2000,10
+1230,Shreemaatha Kitchens,1.0,Multicuisine,['kengeri'],['South Bengaluru'],600,10
+1231,Shreemaatha Kitchens,1.0,Multicuisine,['kengeri'],['South Bengaluru'],600,10
+1232,Quattro Bistro,4.9,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,10
+1233,Quattro Bistro,4.9,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,10
+1234,Nook,4.1,Multicuisine,['Aloft Bengaluru Outer Ring Road'],['South Bengaluru'],2000,10
+1235,Nook,4.1,Multicuisine,['Aloft Bengaluru Outer Ring Road'],['South Bengaluru'],2000,10
+1236,NEST,4.1,Multicuisine,[],[],2000,25
+1237,NEST,4.1,Multicuisine,[],[],2000,25
+1238,Mayuri,4.5,"Multicuisine, Biryani",['Electronic City'],['South Bengaluru'],2000,25
+1239,Mayuri,4.5,"Multicuisine, Biryani",['Electronic City'],['South Bengaluru'],2000,25
+1240,NASHA The Resto Bar,5.0,Multicuisine,['BTM'],['South Bengaluru'],1200,10
+1241,NASHA The Resto Bar,5.0,Multicuisine,['BTM'],['South Bengaluru'],1200,10
+1242,Karims,4.0,"Indian, Mughlai",['Kalyan Nagar'],['North Bengaluru'],4000,25
+1243,Karims,4.0,"Indian, Mughlai",['Kalyan Nagar'],['North Bengaluru'],4000,25
+1244,"Byg Brewski Brewing Company, Sarjapur",4.5,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,25
+1245,"Byg Brewski Brewing Company, Sarjapur",4.5,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,25
+1246,Fika - Sip Savor,5.0,"Cafe, Desserts, Continental",['Sahakara Nagar'],['North Bengaluru'],2000,10
+1247,Fika - Sip Savor,5.0,"Cafe, Desserts, Continental",['Sahakara Nagar'],['North Bengaluru'],2000,10
+1248,Byg Brewski Brewing company - Yeshwanthpur,4.4,Multicuisine,['Tumkur Main Rd'],['North Bengaluru'],2000,25
+1249,Byg Brewski Brewing company - Yeshwanthpur,4.4,Multicuisine,['Tumkur Main Rd'],['North Bengaluru'],2000,25
+1250,Tiki Village Cafe & Resto Bar,4.0,Multicuisine,['Hesaragahatta'],['North Bengaluru'],2000,10
+1251,Tiki Village Cafe & Resto Bar,4.0,Multicuisine,['Hesaragahatta'],['North Bengaluru'],2000,10
+1252,Tangerine,4.1,Multicuisine,['Davanam Sarovar Portico Suites'],[],2000,20
+1253,Tangerine,4.1,Multicuisine,['Davanam Sarovar Portico Suites'],[],2000,20
+1254,Daily Sushi - ITPL,4.5,"Japanese, Korean",['Whitefield'],['East Bengaluru'],2000,10
+1255,Daily Sushi - ITPL,4.5,"Japanese, Korean",['Whitefield'],['East Bengaluru'],2000,10
+1256,The Fisherman's Wharf,4.5,"Seafood, Multicuisine, Indian Coastal Cuisine",['Sarjapur Road'],['South Bengaluru'],2000,25
+1257,The Fisherman's Wharf,4.5,"Seafood, Multicuisine, Indian Coastal Cuisine",['Sarjapur Road'],['South Bengaluru'],2000,25
+1258,Attil Coastal Cuisine Restaurant,3.5,Indian Coastal Cuisine,['Hotel Canton Bar & Kitchen'],[],2000,10
+1259,Attil Coastal Cuisine Restaurant,3.5,Indian Coastal Cuisine,['Hotel Canton Bar & Kitchen'],[],2000,10
+1260,Havn Resto Bar,4.0,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+1261,Havn Resto Bar,4.0,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+1262,Cinnamon,4.5,Multicuisine,['Highland Hotel'],[],2000,10
+1263,Cinnamon,4.5,Multicuisine,['Highland Hotel'],[],2000,10
+1264,SOL55 - COMMUNITY BAR,4.0,Multicuisine,['Koramangala 4th Block'],['South Bengaluru'],1500,25
+1265,SOL55 - COMMUNITY BAR,4.0,Multicuisine,['Koramangala 4th Block'],['South Bengaluru'],1500,25
+1266,The Chill House,4.3,"Indian, Italian",['HSR'],['South Bengaluru'],2000,10
+1267,The Chill House,4.3,"Indian, Italian",['HSR'],['South Bengaluru'],2000,10
+1268,Mahanagaram,4.8,Andhra,['Kalyan Nagar'],['North Bengaluru'],800,25
+1269,Mahanagaram,4.8,Andhra,['Kalyan Nagar'],['North Bengaluru'],800,25
+1270,Flavours Restaurant,3.0,Multicuisine,[],[],2000,20
+1271,Flavours Restaurant,3.0,Multicuisine,[],[],2000,20
+1272,Full Circle,4.3,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,25
+1273,Full Circle,4.3,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,25
+1274,Lux Pub & Kitchen,3.0,Multicuisine,['Koramangala 7th Block'],['South Bengaluru'],2000,15
+1275,Lux Pub & Kitchen,3.0,Multicuisine,['Koramangala 7th Block'],['South Bengaluru'],2000,15
+1276,Harvest Salad Cafe,5.0,Multicuisine,['12th main'],['East Bengaluru'],1000,25
+1277,Harvest Salad Cafe,5.0,Multicuisine,['12th main'],['East Bengaluru'],1000,25
+1278,Garden Asia,4.1,"Tibetan, Chinese",['Koramangala'],['South Bengaluru'],2000,10
+1279,Garden Asia,4.1,"Tibetan, Chinese",['Koramangala'],['South Bengaluru'],2000,10
+1280,Jalsaa,3.0,Multicuisine,['R T Nagar'],['North Bengaluru'],1000,10
+1281,Jalsaa,3.0,Multicuisine,['R T Nagar'],['North Bengaluru'],1000,10
+1282,Parika,4.4,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+1283,Parika,4.4,Multicuisine,['HSR'],['South Bengaluru'],2000,25
+1284,Ambara Bar & Restaurant,4.5,Multicuisine,['V One Hotel - Ambara Elite'],[],2000,15
+1285,Ambara Bar & Restaurant,4.5,Multicuisine,['V One Hotel - Ambara Elite'],[],2000,15
+1286,Manbhavan Premium Thali Restaurant,4.0,Indian,['Bhartiya Mall'],[],2000,10
+1287,Manbhavan Premium Thali Restaurant,4.0,Indian,['Bhartiya Mall'],[],2000,10
+1288,Khmer Kitchen,4.7,Asian,['JP Nagar'],['South Bengaluru'],2000,25
+1289,Khmer Kitchen,4.7,Asian,['JP Nagar'],['South Bengaluru'],2000,25
+1290,Meloghrano,4.9,Multicuisine,['Banashankari'],['South Bengaluru'],2000,10
+1291,Meloghrano,4.9,Multicuisine,['Banashankari'],['South Bengaluru'],2000,10
+1292,DISTRICT 6,4.5,"Cocktail Menu, Multicuisine",['Rajajinagar'],['West Bengaluru'],2000,25
+1293,DISTRICT 6,4.5,"Cocktail Menu, Multicuisine",['Rajajinagar'],['West Bengaluru'],2000,25
+1294,Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.9,Thai,['Rajarajeshwari Nagar'],['South Bengaluru'],1400,25
+1295,Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.9,Thai,['Rajarajeshwari Nagar'],['South Bengaluru'],1400,25
+1296,Pasta Pasta,4.0,Italian,['Sarjapur Road'],['South Bengaluru'],2000,10
+1297,Pasta Pasta,4.0,Italian,['Sarjapur Road'],['South Bengaluru'],2000,10
+1298,Vembanad,4.4,Kerala,['The Paul'],[],2000,10
+1299,Vembanad,4.4,Kerala,['The Paul'],[],2000,10
+1300,KOKO,4.5,Asian,['Jeevan Bhima Nagar'],['East Bengaluru'],3500,25
+1301,KOKO,4.5,Asian,['Jeevan Bhima Nagar'],['East Bengaluru'],3500,25
+1302,Vinny's,4.0,Italian,['New BEL Road'],['North Bengaluru'],800,20
+1303,Vinny's,4.0,Italian,['New BEL Road'],['North Bengaluru'],800,20
+1304,Blue Shadow,4.0,Multicuisine,['Davanam Sarovar Portico Suites'],[],1500,20
+1305,Blue Shadow,4.0,Multicuisine,['Davanam Sarovar Portico Suites'],[],1500,20
+1306,The Chocolate Room,3.5,"Beverages, Desserts",['Whitefield'],['East Bengaluru'],2000,10
+1307,The Chocolate Room,3.5,"Beverages, Desserts",['Whitefield'],['East Bengaluru'],2000,10
+1308,The Big Buffet,3.3,Chinese,['Electronic City Phase 1'],['South Bengaluru'],2000,10
+1309,The Big Buffet,3.3,Chinese,['Electronic City Phase 1'],['South Bengaluru'],2000,10
+1310,Izanagi,4.0,Japanese,['Indiranagar'],['East Bengaluru'],2000,25
+1311,Izanagi,4.0,Japanese,['Indiranagar'],['East Bengaluru'],2000,25
+1312,Vanamo,4.4,Continental,['100 Feet Road'],['East Bengaluru'],2500,10
+1313,Vanamo,4.4,Continental,['100 Feet Road'],['East Bengaluru'],2500,10
+1314,Marigold Restaurant Bar & Pub,4.6,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1315,Marigold Restaurant Bar & Pub,4.6,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1316,The Pizza Bakery,4.7,"Pizza, Italian",['HSR'],['South Bengaluru'],2500,25
+1317,The Pizza Bakery,4.7,"Pizza, Italian",['HSR'],['South Bengaluru'],2500,25
+1318,Cafe Grey by Dongle & Co.,4.2,European,['Indiranagar'],['East Bengaluru'],2000,10
+1319,Cafe Grey by Dongle & Co.,4.2,European,['Indiranagar'],['East Bengaluru'],2000,10
+1320,Jungle Feast Bar & Restaurant,5.0,Multicuisine,['JP Nagar'],['South Bengaluru'],1000,10
+1321,Jungle Feast Bar & Restaurant,5.0,Multicuisine,['JP Nagar'],['South Bengaluru'],1000,10
+1322,Sally by 1522,4.4,"European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque","['Phoenix Mall Of Asia, Yelahanka']",[],2500,25
+1323,Sally by 1522,4.4,"European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque","['Phoenix Mall Of Asia, Yelahanka']",[],2500,25
+1324,CocoBay,5.0,Fast Food,['Begur'],[],500,10
+1325,CocoBay,5.0,Fast Food,['Begur'],[],500,10
+1326,Char & Co.,4.0,"Continental, Kebabs",['Kalyan Nagar'],['North Bengaluru'],1500,10
+1327,Char & Co.,4.0,"Continental, Kebabs",['Kalyan Nagar'],['North Bengaluru'],1500,10
+1328,Nakkshatra by Nagarjuna,5.0,"Multicuisine, Biryani",['Marathahalli'],['East Bengaluru'],2500,10
+1329,Nakkshatra by Nagarjuna,5.0,"Multicuisine, Biryani",['Marathahalli'],['East Bengaluru'],2500,10
+1330,Saffron,4.5,North Indian,[],[],2500,10
+1331,Saffron,4.5,North Indian,[],[],2500,10
+1332,Orchid,3.9,Multicuisine,['Fortune Park JP Celestial'],[],2000,10
+1333,Orchid,3.9,Multicuisine,['Fortune Park JP Celestial'],[],2000,10
+1334,Liquid’s Bar & Kitchen,4.2,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+1335,Liquid’s Bar & Kitchen,4.2,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,10
+1336,Fish Fryday,5.0,Seafood,['HSR'],['South Bengaluru'],2000,25
+1337,Fish Fryday,5.0,Seafood,['HSR'],['South Bengaluru'],2000,25
+1338,Saiko Sushi House,5.0,Japanese,"['Rajiv Gandhi Nagar, Kodigehalli']",['North Bengaluru'],800,25
+1339,Saiko Sushi House,5.0,Japanese,"['Rajiv Gandhi Nagar, Kodigehalli']",['North Bengaluru'],800,25
+1340,Baileys Cafe & Restaurant,5.0,"Beverages, Cafe",['Banaswadi'],['North Bengaluru'],2000,10
+1341,Baileys Cafe & Restaurant,5.0,"Beverages, Cafe",['Banaswadi'],['North Bengaluru'],2000,10
+1342,F Cafe By FTV,5.0,Multicuisine,['Domlur'],['East Bengaluru'],2000,10
+1343,F Cafe By FTV,5.0,Multicuisine,['Domlur'],['East Bengaluru'],2000,10
+1344,White Garden,4.5,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,25
+1345,White Garden,4.5,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,25
+1346,Shetty Lunch Home,4.6,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,25
+1347,Shetty Lunch Home,4.6,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,25
+1348,Harley's fine baking,4.9,"Cafe, Bakery",['JP Nagar'],['South Bengaluru'],2000,10
+1349,Harley's fine baking,4.9,"Cafe, Bakery",['JP Nagar'],['South Bengaluru'],2000,10
+1350,Melange,4.1,Multicuisine,[],[],2800,10
+1351,Melange,4.1,Multicuisine,[],[],2800,10
+1352,Yuki Cocktail Bar and Kitchen,4.8,Pan Asian,['Sarjapur Road'],['South Bengaluru'],4000,25
+1353,Yuki Cocktail Bar and Kitchen,4.8,Pan Asian,['Sarjapur Road'],['South Bengaluru'],4000,25
+1354,Iron & Timber Lounge,5.0,"Finger Food, Indian, Fusion",['Brookefield'],['East Bengaluru'],1700,10
+1355,Iron & Timber Lounge,5.0,"Finger Food, Indian, Fusion",['Brookefield'],['East Bengaluru'],1700,10
+1356,Kalpaney,4.6,Multicuisine,['JP Nagar'],['South Bengaluru'],2500,25
+1357,Kalpaney,4.6,Multicuisine,['JP Nagar'],['South Bengaluru'],2500,25
+1358,Niro,4.9,Multicuisine,['Country Inn & Suites By Radisson'],['Bengaluru Hebbal'],2500,20
+1359,Niro,4.9,Multicuisine,['Country Inn & Suites By Radisson'],['Bengaluru Hebbal'],2500,20
+1360,Araku Coffee,4.6,"Cafe, Desserts, European",['12th main'],['East Bengaluru'],2000,25
+1361,Araku Coffee,4.6,"Cafe, Desserts, European",['12th main'],['East Bengaluru'],2000,25
+1362,EtOH Rooftop Restaurant | Bar,5.0,Multicuisine,['Electronic City'],['South Bengaluru'],1000,10
+1363,EtOH Rooftop Restaurant | Bar,5.0,Multicuisine,['Electronic City'],['South Bengaluru'],1000,10
+1364,Punarvasu Restaurant,4.7,Multicuisine,"['Hotel Leroy Grand, Yeshwanthpur']",[],2500,20
+1365,Punarvasu Restaurant,4.7,Multicuisine,"['Hotel Leroy Grand, Yeshwanthpur']",[],2500,20
+1366,The Dreaming Tree,5.0,"Italian, Mexican",['HSR'],['South Bengaluru'],900,25
+1367,The Dreaming Tree,5.0,"Italian, Mexican",['HSR'],['South Bengaluru'],900,25
+1368,Sea Meen Restaurant,4.2,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1369,Sea Meen Restaurant,4.2,Multicuisine,['Koramangala'],['South Bengaluru'],2000,10
+1370,DE Fish Restaurant,4.0,"Indian Coastal Cuisine, Seafood",['Kalyan Nagar'],['North Bengaluru'],600,25
+1371,DE Fish Restaurant,4.0,"Indian Coastal Cuisine, Seafood",['Kalyan Nagar'],['North Bengaluru'],600,25
+1372,Barkaas Arabic Restaurant,4.1,"Arabian, Middle Eastern",['Marathahalli'],['East Bengaluru'],2000,10
+1373,Barkaas Arabic Restaurant,4.1,"Arabian, Middle Eastern",['Marathahalli'],['East Bengaluru'],2000,10
+1374,Idylll,4.8,Indian,['12th main'],['East Bengaluru'],2500,25
+1375,Idylll,4.8,Indian,['12th main'],['East Bengaluru'],2500,25
+1376,Chaiffee Cafe,4.0,"Fast Food, European",['Jeevan Bhima Nagar'],['East Bengaluru'],2000,25
+1377,Chaiffee Cafe,4.0,"Fast Food, European",['Jeevan Bhima Nagar'],['East Bengaluru'],2000,25
+1378,Grasa,4.7,"Cocktail Menu, Multicuisine",['Yelahanka'],['North Bengaluru'],2500,10
+1379,Grasa,4.7,"Cocktail Menu, Multicuisine",['Yelahanka'],['North Bengaluru'],2500,10
+1380,Marbella Multi Cuisine Rooftop,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1381,Marbella Multi Cuisine Rooftop,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1382,Mon Cheri-Resto Cafe,5.0,"European, Italian",['Indiranagar'],['East Bengaluru'],2000,10
+1383,Mon Cheri-Resto Cafe,5.0,"European, Italian",['Indiranagar'],['East Bengaluru'],2000,10
+1384,Jewel Sizzle,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1385,Jewel Sizzle,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,10
+1386,Malgudi Mylari Mane,4.7,Indian,['Koramangala'],['South Bengaluru'],2000,25
+1387,Malgudi Mylari Mane,4.7,Indian,['Koramangala'],['South Bengaluru'],2000,25
+1388,"Byg Brewski Brewing Company, Hennur",4.4,Multicuisine,['Hennur'],['North Bengaluru'],2000,25
+1389,"Byg Brewski Brewing Company, Hennur",4.4,Multicuisine,['Hennur'],['North Bengaluru'],2000,25
+1390,Nysa Sky Bar,4.4,Multicuisine,['Yelahanka'],['North Bengaluru'],2000,10
+1391,Nysa Sky Bar,4.4,Multicuisine,['Yelahanka'],['North Bengaluru'],2000,10
+1392,D Square Restobar,4.0,"Andhra, Cocktail Menu",['YN Hotels'],[],2000,10
+1393,D Square Restobar,4.0,"Andhra, Cocktail Menu",['YN Hotels'],[],2000,10
+1394,Zen,4.4,"Asian, Pan Asian",['The Leela Palace'],[],7080,10
+1395,Zen,4.4,"Asian, Pan Asian",['The Leela Palace'],[],7080,10
+1396,The Persian Terrace,4.7,Persian,[],[],2500,15
+1397,The Persian Terrace,4.7,Persian,[],[],2500,15
+1398,Salna,5.0,South Indian,['Kalyan Nagar'],['North Bengaluru'],700,25
+1399,Salna,5.0,South Indian,['Kalyan Nagar'],['North Bengaluru'],700,25
+1400,Yummy Bee,4.0,Cafe,['JP Nagar'],['South Bengaluru'],1000,10
+1401,Yummy Bee,4.0,Cafe,['JP Nagar'],['South Bengaluru'],1000,10
+1402,Pakwan,4.5,"Italian, North Indian",['Indiranagar'],['East Bengaluru'],2000,25
+1403,Pakwan,4.5,"Italian, North Indian",['Indiranagar'],['East Bengaluru'],2000,25
+1404,Beijing Bites,4.0,"Pan Asian, Thai, Chinese","['Hosa Road, Bengaluru']",['South Bengaluru'],450,15
+1405,Beijing Bites,4.0,"Pan Asian, Thai, Chinese","['Hosa Road, Bengaluru']",['South Bengaluru'],450,15
+1406,Gufha,4.2,Afghani,['The President Hotel'],[],2000,10
+1407,Gufha,4.2,Afghani,['The President Hotel'],[],2000,10
+1408,HighDrate Resto Pub,4.2,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,25
+1409,HighDrate Resto Pub,4.2,Multicuisine,['Rajarajeshwari Nagar'],['South Bengaluru'],2000,25
+1410,Happy Brew - Bar & Kitchen,3.4,"Finger Food, Multicuisine",['Koramangala'],['South Bengaluru'],2500,25
+1411,Happy Brew - Bar & Kitchen,3.4,"Finger Food, Multicuisine",['Koramangala'],['South Bengaluru'],2500,25
+1412,Mirror,1.7,"Finger Food, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,20
+1413,Mirror,1.7,"Finger Food, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,20
+1414,Foo Orion,4.0,"Sushi, Asian, Chinese",['Orion Mall'],[],2000,25
+1415,Foo Orion,4.0,"Sushi, Asian, Chinese",['Orion Mall'],[],2000,25
+1416,New Godavari Bar & Kitchen,4.7,Multicuisine,[],[],2000,10
+1417,New Godavari Bar & Kitchen,4.7,Multicuisine,[],[],2000,10
+1418,Hyderabad Firewood Biryani,4.0,Multicuisine,['Panathur'],[],700,25
+1419,Hyderabad Firewood Biryani,4.0,Multicuisine,['Panathur'],[],700,25
+1420,Timbar,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],1500,25
+1421,Timbar,4.3,Multicuisine,['JP Nagar'],['South Bengaluru'],1500,25
+1422,Indus Flavour,5.0,Multicuisine,['Hesaragahatta'],['North Bengaluru'],2000,10
+1423,Indus Flavour,5.0,Multicuisine,['Hesaragahatta'],['North Bengaluru'],2000,10
+1424,Tommy's,5.0,Indian,['Old Airport Road'],['East Bengaluru'],1000,25
+1425,Tommy's,5.0,Indian,['Old Airport Road'],['East Bengaluru'],1000,25
+1426,WXYZ Bar,3.6,Multicuisine,['Aloft Bengaluru Outer Ring Road'],['South Bengaluru'],2000,10
+1427,WXYZ Bar,3.6,Multicuisine,['Aloft Bengaluru Outer Ring Road'],['South Bengaluru'],2000,10
+1428,Theo Cafe,3.7,"Pan Asian, Continental",['Kothanur'],[],1500,25
+1429,Theo Cafe,3.7,"Pan Asian, Continental",['Kothanur'],[],1500,25
+1430,Svarasa Indian Kitchen,4.0,Modern Indian,['Koramangala 5th Block'],['South Bengaluru'],1500,10
+1431,Svarasa Indian Kitchen,4.0,Modern Indian,['Koramangala 5th Block'],['South Bengaluru'],1500,10
+1432,Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.0,"Thai, Asian",['Hennur'],['North Bengaluru'],1200,10
+1433,Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.0,"Thai, Asian",['Hennur'],['North Bengaluru'],1200,10
+1434,Central Flavors,4.0,"Chinese, North Indian",['Hennur'],['North Bengaluru'],2000,20
+1435,Central Flavors,4.0,"Chinese, North Indian",['Hennur'],['North Bengaluru'],2000,20
+1436,Whitefield Baking Company,4.6,Multicuisine,[],[],2000,25
+1437,Whitefield Baking Company,4.6,Multicuisine,[],[],2000,25
+1438,Bologna,4.7,Italian,['Whitefield'],['East Bengaluru'],1800,10
+1439,Bologna,4.7,Italian,['Whitefield'],['East Bengaluru'],1800,10
+1440,Xin Den,5.0,Pan Asian,['HSR'],['South Bengaluru'],2000,10
+1441,Xin Den,5.0,Pan Asian,['HSR'],['South Bengaluru'],2000,10
+1442,Black Velvet,3.2,Multicuisine,[],[],2000,15
+1443,Black Velvet,3.2,Multicuisine,[],[],2000,15
+1444,Cafe Happy Place,5.0,"American, European",['R.M.V. 2nd Stage'],['Central Bengaluru'],1000,10
+1445,Cafe Happy Place,5.0,"American, European",['R.M.V. 2nd Stage'],['Central Bengaluru'],1000,10
+1446,Guru Greens,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],800,25
+1447,Guru Greens,4.0,Multicuisine,['Bannerghatta Road'],['South Bengaluru'],800,25
+1448,Hops Haus - Taproom,4.6,Multicuisine,['Bellary Road'],['North Bengaluru'],2000,10
+1449,Hops Haus - Taproom,4.6,Multicuisine,['Bellary Road'],['North Bengaluru'],2000,10
+1450,The Peck,5.0,European,['Koramangala 8th Block'],['South Bengaluru'],800,25
+1451,The Peck,5.0,European,['Koramangala 8th Block'],['South Bengaluru'],800,25
+1452,"Rusted Spoon Cafe - Roastery, Brew Room",4.5,Cafe,['Uttarahalli'],['South Bengaluru'],400,10
+1453,"Rusted Spoon Cafe - Roastery, Brew Room",4.5,Cafe,['Uttarahalli'],['South Bengaluru'],400,10
+1454,Mahesh Lunch Home,4.5,"Seafood, Multicuisine",['100 Feet Road'],['East Bengaluru'],2000,25
+1455,Mahesh Lunch Home,4.5,"Seafood, Multicuisine",['100 Feet Road'],['East Bengaluru'],2000,25
+1456,Urban Turban,4.0,North Indian,['Sarjapur Road'],['South Bengaluru'],2000,25
+1457,Urban Turban,4.0,North Indian,['Sarjapur Road'],['South Bengaluru'],2000,25
+1458,Falak,4.6,North Indian,"['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,10
+1459,Falak,4.6,North Indian,"['The Leela Bhartiya City, Hotel Convention & Residences']",['Hotel Convention'],2500,10
+1460,Roxie,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],1800,25
+1461,Roxie,4.4,Multicuisine,['Sarjapur Road'],['South Bengaluru'],1800,25
+1462,Salone Ceylon By Harpo,4.7,Multicuisine,['International Airport'],['North Bengaluru'],2000,10
+1463,Salone Ceylon By Harpo,4.7,Multicuisine,['International Airport'],['North Bengaluru'],2000,10
+1464,Secret Scoopss,4.4,Ice Cream,['New BEL Road'],['North Bengaluru'],2000,25
+1465,Secret Scoopss,4.4,Ice Cream,['New BEL Road'],['North Bengaluru'],2000,25
+1466,Masala Mandi,4.2,Barbeque,['Sarjapur Road'],['South Bengaluru'],2000,25
+1467,Masala Mandi,4.2,Barbeque,['Sarjapur Road'],['South Bengaluru'],2000,25
+1468,Mint Masala,3.8,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,25
+1469,Mint Masala,3.8,Multicuisine,['Sadashiv Nagar'],['North Bengaluru'],2000,25
+1470,Hashtag 88 Resto Bar,4.1,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,15
+1471,Hashtag 88 Resto Bar,4.1,Multicuisine,['Marathahalli'],['East Bengaluru'],2000,15
+1472,Thamara Bar And Fine Dine,4.0,Multicuisine,['Hotel Classic Comfort'],[],1200,10
+1473,Thamara Bar And Fine Dine,4.0,Multicuisine,['Hotel Classic Comfort'],[],1200,10
+1474,Ranch,5.0,Multicuisine,['Kasaba Hobli'],[],2000,15
+1475,Ranch,5.0,Multicuisine,['Kasaba Hobli'],[],2000,15
+1476,Bhangra Bistro,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+1477,Bhangra Bistro,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],2000,10
+1478,The Hebbal Cafe,4.7,Multicuisine,[],[],2500,10
+1479,The Hebbal Cafe,4.7,Multicuisine,[],[],2500,10
+1480,Fiesta By Barbeque Nation,4.1,Multicuisine,['Vega City Mall'],['Bannerghatta Road'],1700,25
+1481,Fiesta By Barbeque Nation,4.1,Multicuisine,['Vega City Mall'],['Bannerghatta Road'],1700,25
+1482,Daily Sushi,4.6,"Japanese, Korean",['Jayanagar'],['South Bengaluru'],2000,10
+1483,Daily Sushi,4.6,"Japanese, Korean",['Jayanagar'],['South Bengaluru'],2000,10
+1484,Lush,4.4,Multicuisine,[],[],2000,10
+1485,Lush,4.4,Multicuisine,[],[],2000,10
+1486,Bricks Bar & Kitchen,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,25
+1487,Bricks Bar & Kitchen,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],2000,25
+1488,Kebapci,4.8,Turkish,['Forum Mall'],['Kanakapura Road'],2000,25
+1489,Kebapci,4.8,Turkish,['Forum Mall'],['Kanakapura Road'],2000,25
+1490,Pizza Stop,4.0,Pizza,['Vasanth Nagar'],['Central Bengaluru'],700,25
+1491,Pizza Stop,4.0,Pizza,['Vasanth Nagar'],['Central Bengaluru'],700,25
+1492,The Brussels Waffle,4.0,Desserts,['Koramangala'],['South Bengaluru'],400,25
+1493,The Brussels Waffle,4.0,Desserts,['Koramangala'],['South Bengaluru'],400,25
+1494,Express Cafe & Bar,5.0,Multicuisine,[],[],2000,25
+1495,Express Cafe & Bar,5.0,Multicuisine,[],[],2000,25
+1496,The Pipe Rack,3.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,20
+1497,The Pipe Rack,3.0,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,20
+1498,Finca,5.0,"Cocktail Menu, Multicuisine",['Thanisandra'],[],2000,25
+1499,Finca,5.0,"Cocktail Menu, Multicuisine",['Thanisandra'],[],2000,25
+1500,Tanour Multi Cuisine,5.0,"Chinese, Arabian",['BTM'],['South Bengaluru'],600,10
+1501,Tanour Multi Cuisine,5.0,"Chinese, Arabian",['BTM'],['South Bengaluru'],600,10
+1502,Sugar Factory Reloaded,3.1,"Finger Food, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,20
+1503,Sugar Factory Reloaded,3.1,"Finger Food, Cocktail Menu",['Koramangala'],['South Bengaluru'],2000,20
+1504,The Lazy Turtle,3.8,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+1505,The Lazy Turtle,3.8,Multicuisine,['Koramangala'],['South Bengaluru'],2000,25
+1506,Quatre Adda,4.5,Multicuisine,['Yelahanka'],['North Bengaluru'],2500,15
+1507,Quatre Adda,4.5,Multicuisine,['Yelahanka'],['North Bengaluru'],2500,15
+1508,Hamilton,5.0,Finger Food,['Hoodi'],[],1500,25
+1509,Hamilton,5.0,Finger Food,['Hoodi'],[],1500,25
+1510,Blue Terrain,4.1,"Italian, Mediterranean",[],[],2500,20
+1511,Blue Terrain,4.1,"Italian, Mediterranean",[],[],2500,20
+1512,Rajdhani Thali Restaurant,4.6,Rajasthani,['Indiranagar'],['East Bengaluru'],2000,25
+1513,Rajdhani Thali Restaurant,4.6,Rajasthani,['Indiranagar'],['East Bengaluru'],2000,25
+1514,Secret Spot Cafe,4.5,Multicuisine,['Jayanagar'],['South Bengaluru'],800,10
+1515,Secret Spot Cafe,4.5,Multicuisine,['Jayanagar'],['South Bengaluru'],800,10
+1516,Coastal Waves,3.7,Multicuisine,"['Chikkalakshmaiah Layout, Bengaluru']",[],2000,10
+1517,Coastal Waves,3.7,Multicuisine,"['Chikkalakshmaiah Layout, Bengaluru']",[],2000,10
+1518,1131 Bar & Kitchen,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],2500,25
+1519,1131 Bar & Kitchen,4.8,Multicuisine,['100 Feet Road'],['East Bengaluru'],2500,25
+1520,Parka Resto Bar,4.1,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,10
+1521,Parka Resto Bar,4.1,Multicuisine,['Kalyan Nagar'],['North Bengaluru'],2000,10
+1522,Trishna,4.2,Multicuisine,['Banaswadi'],['North Bengaluru'],2000,25
+1523,Trishna,4.2,Multicuisine,['Banaswadi'],['North Bengaluru'],2000,25
+1524,Celeb's RestoBar,4.7,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1525,Celeb's RestoBar,4.7,Multicuisine,['Whitefield'],['East Bengaluru'],2000,10
+1526,Brunch Project,4.3,Cafe,['Koramangala 4th Block'],['South Bengaluru'],2000,10
+1527,Brunch Project,4.3,Cafe,['Koramangala 4th Block'],['South Bengaluru'],2000,10
+1528,Coffee Brewery,4.0,Multicuisine,['Sarjapur Road'],['South Bengaluru'],600,10
+1529,Coffee Brewery,4.0,Multicuisine,['Sarjapur Road'],['South Bengaluru'],600,10
+1530,Forskor Restaurant,4.5,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1531,Forskor Restaurant,4.5,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1532,Mocaa House,5.0,Multicuisine,['Vijaya Bank Layout'],[],800,25
+1533,Mocaa House,5.0,Multicuisine,['Vijaya Bank Layout'],[],800,25
+1534,BudBee Zodiac Bar & Kitchen,5.0,Multicuisine,['Marathahalli'],['East Bengaluru'],1200,10
+1535,BudBee Zodiac Bar & Kitchen,5.0,Multicuisine,['Marathahalli'],['East Bengaluru'],1200,10
+1536,Candles Brewhouse,3.9,Multicuisine,['Hebbal'],['North Bengaluru'],2500,10
+1537,Candles Brewhouse,3.9,Multicuisine,['Hebbal'],['North Bengaluru'],2500,10
+1538,Le Cirque Signature,4.1,Italian,['The Leela Palace'],[],9440,10
+1539,Le Cirque Signature,4.1,Italian,['The Leela Palace'],[],9440,10
+1540,Anantha - Pure Veg,3.7,South Indian,['Bellary Road'],['North Bengaluru'],2000,10
+1541,Anantha - Pure Veg,3.7,South Indian,['Bellary Road'],['North Bengaluru'],2000,10
+1542,Gardenwoods - Rooftop Kitchen,5.0,Multicuisine,['Electronic City Phase 1'],['South Bengaluru'],1800,25
+1543,Gardenwoods - Rooftop Kitchen,5.0,Multicuisine,['Electronic City Phase 1'],['South Bengaluru'],1800,25
+1544,Amaiya- The Bakehouse,2.5,Cafe,['HSR'],['South Bengaluru'],2000,20
+1545,Amaiya- The Bakehouse,2.5,Cafe,['HSR'],['South Bengaluru'],2000,20
+1546,Ambedo Restaurant & Cocktail Bar,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],1500,10
+1547,Ambedo Restaurant & Cocktail Bar,4.0,Multicuisine,['JP Nagar'],['South Bengaluru'],1500,10
+1548,Dialogues Cafe,4.0,Cafe,['Koramangala 4th Block'],['South Bengaluru'],2000,10
+1549,Dialogues Cafe,4.0,Cafe,['Koramangala 4th Block'],['South Bengaluru'],2000,10
+1550,Publik Bar and Kitchen,4.0,Multicuisine,['Bellandur'],['South Bengaluru'],2000,15
+1551,Publik Bar and Kitchen,4.0,Multicuisine,['Bellandur'],['South Bengaluru'],2000,15
+1552,Kudi Karam,4.0,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],1000,10
+1553,Kudi Karam,4.0,Multicuisine,['Koramangala 5th Block'],['South Bengaluru'],1000,10
+1554,Delicious China,4.2,Chinese,['Battrahalli'],[],2000,10
+1555,Delicious China,4.2,Chinese,['Battrahalli'],[],2000,10
+1556,Bangalore Adda,3.1,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,20
+1557,Bangalore Adda,3.1,Multicuisine,['New BEL Road'],['North Bengaluru'],2000,20
+1558,Arna Multicuisine,4.0,Multicuisine,"['4th Block, Jayanagar']",['South Bengaluru'],1000,10
+1559,Arna Multicuisine,4.0,Multicuisine,"['4th Block, Jayanagar']",['South Bengaluru'],1000,10
+1560,Seta,4.7,"Mediterranean, Asian",[],[],4500,15
+1561,Seta,4.7,"Mediterranean, Asian",[],[],4500,15
+1562,Hi Tea De Atruim,4.0,Multicuisine,['Gandhi Nagar'],['Central Bengaluru'],2000,20
+1563,Hi Tea De Atruim,4.0,Multicuisine,['Gandhi Nagar'],['Central Bengaluru'],2000,20
+1564,Aum's Kitchen,3.7,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1565,Aum's Kitchen,3.7,Multicuisine,['Sarjapur Road'],['South Bengaluru'],2000,10
+1566,Saarai Bar & Kitchen,4.3,"Finger Food, Multicuisine",['Jayanagar'],['South Bengaluru'],2000,25
+1567,Saarai Bar & Kitchen,4.3,"Finger Food, Multicuisine",['Jayanagar'],['South Bengaluru'],2000,25
+1568,MisoSexy,4.3,"Pan Asian, Asian",['12th main'],['East Bengaluru'],2000,25
+1569,MisoSexy,4.3,"Pan Asian, Asian",['12th main'],['East Bengaluru'],2000,25
+1570,Verve Coffee Lounge,1.0,"Coffee, Cafe",[],[],2000,25
+1571,Verve Coffee Lounge,1.0,"Coffee, Cafe",[],[],2000,25
+1572,Flyover Drinkery,4.4,Multicuisine,['Esteem Mall'],[],2000,25
+1573,Flyover Drinkery,4.4,Multicuisine,['Esteem Mall'],[],2000,25
+1574,Wild Pour,4.3,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+1575,Wild Pour,4.3,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+1576,Srinidhi Signature,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1577,Srinidhi Signature,4.4,Multicuisine,['Whitefield'],['East Bengaluru'],2000,15
+1578,Alto Vino,4.2,Italian,[],[],3000,25
+1579,Alto Vino,4.2,Italian,[],[],3000,25
+1580,Mamaroma,4.0,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+1581,Mamaroma,4.0,Multicuisine,['Hennur'],['North Bengaluru'],2000,10
+1582,2 RABBITS BAKES,4.0,"Bakery, Cafe",['Koramangala'],['South Bengaluru'],2000,10
+1583,2 RABBITS BAKES,4.0,"Bakery, Cafe",['Koramangala'],['South Bengaluru'],2000,10
+1584,Lyfe Restaurant & Pizzeria,4.8,"Italian, Mediterranean, Pan Asian",['Whitefield'],['East Bengaluru'],2000,10
+1585,Lyfe Restaurant & Pizzeria,4.8,"Italian, Mediterranean, Pan Asian",['Whitefield'],['East Bengaluru'],2000,10
+1586,Tesorio - The Sourdough Pizza Kitchen,4.9,Italian,['Sahakara Nagar'],['North Bengaluru'],2000,10
+1587,Tesorio - The Sourdough Pizza Kitchen,4.9,Italian,['Sahakara Nagar'],['North Bengaluru'],2000,10
+1588,The Rajputana,3.7,Gujarati,['Kundalahalli'],[],2000,10
+1589,The Rajputana,3.7,Gujarati,['Kundalahalli'],[],2000,10
+1590,Fish & Fries,4.7,Seafood,['HSR'],['South Bengaluru'],2000,10
+1591,Fish & Fries,4.7,Seafood,['HSR'],['South Bengaluru'],2000,10
+1592,Daffy's Brewgarden,4.8,Indian,['Indiranagar'],['East Bengaluru'],1600,25
+1593,Daffy's Brewgarden,4.8,Indian,['Indiranagar'],['East Bengaluru'],1600,25
+1594,Hunan Square,4.9,Pan Asian,['Electronic City'],['South Bengaluru'],2000,25
+1595,Hunan Square,4.9,Pan Asian,['Electronic City'],['South Bengaluru'],2000,25
+1596,Secrets Of Ocean,4.0,Multicuisine,['Chikkabanavara'],['North Bengaluru'],2000,25
+1597,Secrets Of Ocean,4.0,Multicuisine,['Chikkabanavara'],['North Bengaluru'],2000,25
+1598,Sidewalk Cafe & Bar,4.3,Multicuisine,['The Paul'],[],2000,10
+1599,Sidewalk Cafe & Bar,4.3,Multicuisine,['The Paul'],[],2000,10
