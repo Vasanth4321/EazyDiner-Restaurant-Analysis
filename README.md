@@ -1,10 +1,6 @@
 # 🍽️ EazyDiner Restaurant Analysis
 
-> A comprehensive data science project analyzing 1,591+ restaurants in Bengaluru using web scraping, data processing, and advanced analytics.
-
-![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+> A comprehensive data science project analyzing 1,591+ restaurants in Bengaluru using web scraping, data processing, and advanced analytics. Key findings demonstrate that restaurant success is not solely dependent on premium pricing, with budget-friendly establishments often matching or exceeding premium restaurant ratings.
 
 ---
 
@@ -286,12 +282,6 @@ This is a personal portfolio project, but suggestions and feedback are welcome! 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 **Vasanth** - Aspiring Data Scientist & Analyst  
@@ -304,15 +294,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - EazyDiner for the restaurant data source
 - Data science community for best practices
-- Innomatics Research Labs for training and guidance
 
 ---
 
 ## 📞 Questions or Feedback?
 
 Feel free to reach out via GitHub Issues or contact through my profile. I'm always interested in discussing data science projects and insights!
-
----
-
-**Last Updated**: January 2026  
-**Project Complexity**: Advanced | **Duration**: 3+ weeks | **Status**: Complete
