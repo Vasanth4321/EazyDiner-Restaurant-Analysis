@@ -4,22 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Highlights](#project-highlights)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Data Processing Pipeline](#data-processing-pipeline)
-- [Key Insights](#key-insights)
-- [Installation & Usage](#installation--usage)
-- [Features Engineered](#features-engineered)
-- [Visualizations](#visualizations)
-- [Business Recommendations](#business-recommendations)
-- [Future Enhancements](#future-enhancements)
-
----
-
 ## 🎯 Overview
 
 This end-to-end data science project demonstrates a complete workflow for restaurant market analysis:
